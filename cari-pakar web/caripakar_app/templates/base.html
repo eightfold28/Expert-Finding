@@ -1,0 +1,45 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{% block title %}
+	{% endblock title %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="{% static 'bootstrap/dist/css/bootstrap.min.css' %}">
+	<link rel="stylesheet" type="text/css" href="{% static 'css/helper.css' %}">
+	<link rel="stylesheet" type="text/css" href="{% static 'css/caripakar.css' %}">
+</head>
+
+{% block localcss %}
+{% endblock localcss %}
+
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<a class="navbar-brand" href="{% url 'index' %}"><img src="{% static 'content/logo.png' %}" alt="" class="img-logo"></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav mr-auto">
+				<li class="nav-item {% if nbar == 'home' %}active{% endif %}">
+					<a class="nav-link" href="{% url 'index' %}">Beranda <span class="sr-only">(current)</span></a>
+				</li>
+				<li class="nav-item {% if nbar == 'about' %}active{% endif %}">
+					<a class="nav-link" href="{% url 'about' %}">Tentang</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+	{% block content %}
+	{% endblock %}
+</body>
+{% block scripts %}
+<script src="{% static 'jquery/dist/jquery.min.js' %}"></script>
+<script src="{% static 'bootstrap/dist/js/bootstrap.bundle.min.js' %}"></script>
+{% endblock scripts %}
+
+{% block localscript %}
+{% endblock localscript %}
+</html>
+

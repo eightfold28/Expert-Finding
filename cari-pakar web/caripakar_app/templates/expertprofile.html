@@ -1,0 +1,145 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block title %}
+<title>Cari Pakar Dosen Indonesia</title>
+{% endblock title %}
+
+{% block localcss %}
+{% endblock localcss %}
+
+{% block content %}
+
+<div class="container pd-t-20">
+	<h3>{{ dosen.nama_dosen }}, {{ dosen.jabatanfungsional.nama_jabatanfungsional }}, {{ dosen.perguruantinggi.nama_perguruantinggi}}</h3>
+	<hr>
+	<p>Program Studi: {{ dosen.programstudi.nama_programstudi }}<br>
+	Jabatan Fungsional: {{ dosen.jabatanfungsional.nama_jabatanfungsional }}</p>
+	
+	<ul class="nav nav-tabs" role="tablist">
+		<li class="nav-item">
+			<a class="nav-link active" data-toggle="tab" href="#pendidikan">Riwayat Pendidikan</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" data-toggle="tab" href="#pengajaran">Riwayat Pengajaran</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" data-toggle="tab" href="#penelitian">Riwayat Penelitian</a>
+		</li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#proyek">Riwayat Pengabdian Masyarakat</a>
+    </li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div id="pendidikan" class="container tab-pane active"><br>
+     <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>No</th>
+          <th>Perguruan Tinggi</th>
+          <th>Gelar Akademik</th>
+          <th>Tanggal Ijazah</th>
+          <th>Jenjang</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for dosengelar in dosen.dosengelar_set.all %}
+        <tr>
+          <td>{{ forloop.counter }}</td>
+          <td>{{ dosengelar.perguruantinggi.nama_perguruantinggi }}</td>
+          <td>{{ dosengelar.gelar.nama_gelar }}</td>
+          <td>{{ dosengelar.tahun_ijazah }}</td>
+          <td>{{ dosengelar.gelar.jenjang.nama_jenjang }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <div id="pengajaran" class="container tab-pane fade"><br>
+   <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Nama Mata Kuliah</th>
+        <th>Perguruan Tinggi</th>
+        <th>Jumlah Semester Pengajaran</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for dosenmatakuliah in dosen.dosenmatakuliah_set.all %}
+      <tr>
+        <td>{{ forloop.counter }}</td>
+        <td>{{ dosenmatakuliah.matakuliah.nama_matakuliah }}</td>
+        <td>{{ dosenmatakuliah.perguruantinggi.nama_perguruantinggi }}</td>
+        <td>{{ dosenmatakuliah.jumlah_pengajaran }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+<div id="penelitian" class="container tab-pane fade">
+ <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Judul Penelitian</th>
+      <th>Bidang Ilmu</th>
+      <th>Lembaga</th>
+      <th>Tahun</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for penelitian in dosen.penelitian_set.all %}
+    <tr>
+      <td>{{ forloop.counter }}</td>
+      <td>{{ penelitian.judul_penelitian }}</td>
+      <td>{{ penelitian.keahlian.nama_keahlian }}</td>
+      <td>{{ penelitian.perguruantinggi.nama_perguruantinggi }}</td>
+      <td>{{ penelitian.tahun }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+<div id="proyek" class="container tab-pane fade">
+ 	<table class="table table-bordered">
+	  	<thead>
+	    <tr>
+	      <th>No</th>
+	      <th>Judul Proyek</th>
+	      <th>Bidang Ilmu</th>
+	      <th>Pengguna Jasa</th>
+	      <th>Tahun</th>
+	    </tr>
+	  	</thead>
+	  	<tbody>
+	    {% for proyek in dosen.proyek_set.all %}
+	    <tr>
+	      <td>{{ forloop.counter }}</td>
+	      <td>{{ proyek.judul_proyek }}</td>
+	      <td>{{ proyek.keahlian.nama_keahlian }}</td>
+	      <td>{{ proyek.pengguna_jasa }}</td>
+	      <td>{{ proyek.tahun }}</td>
+	    </tr>
+	    {% endfor %}
+	  	</tbody>
+	</table>
+</div>
+</div>
+
+</div>
+
+{% endblock content %}
+{% block localscript %}
+<script>
+	$(document).ready(function(){
+		$(".btn-pref .btn").click(function () {
+			$(".btn-pref .btn").removeClass("btn-primary").addClass("btn-default");
+			$(this).removeClass("btn-default").addClass("btn-primary");  
+		});
+	});
+</script>
+{% endblock localscript %}

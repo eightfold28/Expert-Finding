@@ -1,0 +1,153 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block title %}
+<title>Cari Pakar Dosen Indonesia</title>
+{% endblock title %}
+
+{% block localcss %}
+<link rel="stylesheet" type="text/css" href="{% static 'fontawesome/web-fonts-with-css/css/fontawesome-all.min.css' %}">
+{% endblock localcss %}
+
+{% block content %}
+<div class="container pd-t-20">
+	<h6>Bidang keahlian yang kamu cari adalah: <span class="text-primary">{{ keahlian }}</span></h6>
+	<div class="other-expertise pd-t-20">
+		Pencarian tidak sesuai?<br>
+		Pilih bidang keahlian lainnya
+		<form action="{{ request.get_full_path }}" method="GET">
+		<input type="hidden" name="q" value="{{ query_param }}" />
+		<div class="form-group">	
+			<select class="form-control" name="keahlian" id="expertise" style="max-width: 320px;">
+				{% for keahlian_x in keahlian_list %}
+					{% if keahlian_x == keahlian %}
+						<option value="{{ keahlian_x.id }}" selected>{{ keahlian_x.nama_keahlian }}</option>
+					{% else %}
+						<option value="{{ keahlian_x.id }}">{{ keahlian_x.nama_keahlian }}</option>
+					{% endif %}
+				{% endfor %}
+			</select>
+		</div>
+	</div>
+
+	<div class="expertise-weight pd-t-20 pd-b-20">
+		<h6>Aspek apa yang paling penting? Berikan bobot yang sesuai menurut kamu</h6>
+		<!-- <form action="{{ request.get_full_path }}" method="GET"> -->
+			<!-- <input type="hidden" name="q" value="{{ query_param }}" /> -->
+			<div class="row">
+				<div class="col-3 pd-t-20	">
+					Pendidikan
+				</div>
+				<div class="col-6">
+					<div class="range range-primary">
+						<input type="range" name="skor-pendidikan" min="1" max="100" value="{% if skor_pendidikan %}{{ skor_pendidikan }}{% else %}50{% endif %}" onchange="rangePrimary.value=value">
+						<output id="rangePrimary">{% if skor_pendidikan %}{{ skor_pendidikan }}{% else %}50{% endif %}</output>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="row">
+				<div class="col-3 pd-t-20	">
+					Penelitian
+				</div>
+				<div class="col-6">
+					<div class="range range-success">
+						<input type="range" name="skor-penelitian" min="1" max="100" value="{% if skor_penelitian %}{{ skor_penelitian }}{% else %}50{% endif %}" onchange="rangeSuccess.value=value">
+						<output id="rangeSuccess">{% if skor_penelitian %}{{ skor_penelitian }}{% else %}50{% endif %}</output>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="row">
+				<div class="col-3 pd-t-20	">
+					Pengajaran
+				</div>
+				<div class="col-6">
+					<div class="range range-info">
+						<input type="range" name="skor-pengajaran" min="1" max="100" value="{% if skor_pengajaran %}{{ skor_pengajaran }}{% else %}50{% endif %}" onchange="rangeInfo.value=value">
+						<output id="rangeInfo">{% if skor_pengajaran %}{{ skor_pengajaran }}{% else %}50{% endif %}</output>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-3 pd-t-20	">
+					Jabatan
+				</div>
+				<div class="col-6">
+					<div class="range range-danger">
+						<input type="range" name="skor-jabatan" min="1" max="100" value="{% if skor_jabatan %}{{ skor_jabatan }}{% else %}50{% endif %}" onchange="rangeDanger.value=value">
+						<output id="rangeDanger">{% if skor_jabatan %}{{ skor_jabatan }}{% else %}50{% endif %}</output>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="row">
+				<div class="col-3 pd-t-20	">
+					Pengabdian Masyarakat
+				</div>
+				<div class="col-6">
+					<div class="range range-info">
+						<input type="range" name="skor-proyek" min="1" max="100" value="{% if skor_proyek %}{{ skor_proyek }}{% else %}50{% endif %}" onchange="rangeInfo.value=value">
+						<output id="rangeInfo">{% if skor_proyek %}{{ skor_proyek }}{% else %}50{% endif %}</output>
+					</div>
+				</div>
+			</div>
+			<div class="search-again text-center pd-t-20 pd-b-20">
+				<button type="submit" class="btn btn-outline-primary btn-lg">Cari Ulang</button>
+			</div>
+		</form>
+	</div>
+
+	
+</div>
+
+
+<div class="content">
+	<div class="container">
+		<div class="text-center text-title pd-t-20 pd-b-40">
+			<h2>Rekomendasi Pakar</h2>
+			<div class="group-shape">
+				<div id="element1">  <hr></div>
+				<div id="element2">  <div class="diamond-small"></div> </div>
+				<div id="element3">  <hr> </div>
+			</div>
+			<div class="container pd-b-20">
+				<div class="row text-center">
+					{% for dosen, keahlian_list in dosen_recommendation_list %}
+						<div class="col-md-4 col-sm-6 mg-b-20 pd-t-20">
+							<div class="back-box">
+								<div class="prod-text">
+									<h4 class="text-bold">{{ dosen.nama_dosen }}</h4>
+									<i class="fas fa-university"></i> {{ dosen.perguruantinggi.nama_perguruantinggi }}<br>
+									<i class="fas fa-star"></i>
+										{% for keahlian, skor in keahlian_list %}
+											<br>- {{ keahlian.nama_keahlian }} - {{ skor|floatformat:2 }}
+										{% endfor %}
+									<br>
+									<i class="fas fa-graduation-cap"></i>
+										{% for dosengelar in dosen.dosengelar_set.all %}
+											{{ dosengelar.gelar.nama_gelar }}
+										{% endfor %}
+									<div class="pd-t-20"></div>
+									<a href="{% url 'expertprofile' dosen.id %}">
+										<button class="btn btn-primary" type="button">
+										Lihat Profil
+										</button>
+									</a>
+								</div>
+							</div>
+						</div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<!-- add pagination here  -->
+
+
+{% endblock content %}

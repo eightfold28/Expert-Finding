@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+<title>Cari Pakar Dosen Indonesia</title>
+{% endblock title %}
+
+{% block content %}
+<div class="jumbotron">
+	<h1 class="display-4">Cari Pakar dari Dosen Indonesia</h1>
+	<p class="lead">Referensi dosen-dosen terbaik di bidangnya</p>
+	<hr class="my-4">
+	<p>Selamat datang di sistem pencarian pakar dari kumpulan dosen perguruan tinggi di Indonesia!<br> Kamu tinggal ketik persoalan yang ingin kamu selesaikan dan kami akan merekomendasikan pakar yang tepat untuk persoalan kamu.</p>
+</div>
+
+<div class="container">
+	<form method="POST" action="{% url 'index' %}">
+		{% csrf_token %}
+		<div class="form-group">
+			<label for="problemForm">Tuliskan permasalahan atau bidang keahlian yang kamu cari disini:</label>
+			<textarea name="search-data" class="form-control" id="problemForm" rows="5" placeholder="Semakin lengkap semakin jelas. Misal: Pengembangan Internet of Things (IoT) untuk Tour Guide"></textarea>
+		</div>
+		<div class="text-center">
+			<!-- <a href="{% url 'searchresult' %}"><button class="btn btn-primary btn-wide" type="submit">Cari</button></a> -->
+			<button type="submit" class="btn btn-primary btn-wide">Cari</button>
+		</div>
+	</form>
+</div>
+
+{% endblock content %}
+

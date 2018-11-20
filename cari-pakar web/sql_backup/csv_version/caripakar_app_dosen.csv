@@ -1,0 +1,251 @@
+id,"nama_dosen",jabatanfungsional_id,"url",programstudi_id,perguruantinggi_id
+1,"Afwarman",1,"https://forlap.ristekdikti.go.id/dosen/detail/M0RDQkQ1MDctRTc5NS00Q0NELUI5NEEtMDAzMDY2Rjk4MjY2",2,1
+2,"Arry Akhmad Arman",2,"https://forlap.ristekdikti.go.id/dosen/detail/MDcyRkE5QUYtREEyRC00MTZCLUE5RTMtREZGQkU5OUVBQ0ZG",3,1
+3,"Benhard Sitohang",3,"https://forlap.ristekdikti.go.id/dosen/detail/QTdERTVBQzUtOEUyNS00RTQzLTkyMzgtMTQ4NTVDNzhCQTA1",4,1
+4,"Bayu Hendradjaya",4,"https://forlap.ristekdikti.go.id/dosen/detail/RjE1NjA2NjQtMDFGRi00RUU5LUFCNDUtRUQ4OUNCNjkyNDdG",2,1
+5,"Dimitri Mahayana",2,"https://forlap.ristekdikti.go.id/dosen/detail/NzZDODIxNzgtMjJCQy00NjMxLUEwQzYtREQ4Mzc5ODdBNTE4",3,1
+6,"Dody Dharma",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/MjE2RTU3RjMtOEFBQi00MUYwLTk0QzYtOUY3N0VGQ0ZFN0I2",4,1
+7,"Fazat Nur Azizah",2,"https://forlap.ristekdikti.go.id/dosen/detail/NkU0RERBM0QtNTg3OC00QjAyLThFOTAtREJFOURFMENEOEU4",4,1
+8,"Fitra Arifiansyah",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/NUM1NkJBNTQtNEJBRi00QzdDLTkzODYtQThGREJGQTJGRTZB",4,1
+9,"Gusti Ayu Putri Saptawati S",2,"https://forlap.ristekdikti.go.id/dosen/detail/OEQyMEQ0RjQtNDNDMC00NzhFLTkwMTYtM0I3MTAyOUYyMEMw",2,1
+10,"Harlili",2,"https://forlap.ristekdikti.go.id/dosen/detail/OTc1QTZBNDQtRENDQi00REFDLTg2MjctMjkwRTA2Q0ZGRERE",3,1
+11,"I Gusti Bagus Baskara Nugraha",2,"https://forlap.ristekdikti.go.id/dosen/detail/OTZENzJCMEEtNTExNS00QTRDLUIwRjYtMEY0MUQxMzcyMDND",3,1
+12,"Iping Supriana Suwardi",3,"https://forlap.ristekdikti.go.id/dosen/detail/QTY2QTU0N0UtQkIwMS00MkExLUI4RjItN0FBOUVDMEM2M0Q5",2,1
+13,"Jaka Sembiring",1,"https://forlap.ristekdikti.go.id/dosen/detail/N0ZFMTE2MTQtNEI3Ri00MjhCLTkzQjMtNjY3M0ZDQzFCRDEw",2,1
+14,"Judhi Santoso",2,"https://forlap.ristekdikti.go.id/dosen/detail/NkYxOTAyQ0YtMkY0NC00MzJFLTk2RDEtQ0IzNzg3MkFDRTlC",2,1
+15,"Muhammad Zuhri Catur Candra",5,"https://forlap.ristekdikti.go.id/dosen/detail/NUQ3RTRDMEMtODI0My00RUI5LTlGNDYtQkNBQzQxQ0ZDOTNB",4,1
+16,"Muhammad Sukrisno Mardiyanto",2,"https://forlap.ristekdikti.go.id/dosen/detail/QTBCOTQ3MTAtOUQ2NC00NkYyLTlBN0EtQzkyNzhGMTU3MzlF",2,1
+17,"Nana Heryana",6,"https://forlap.ristekdikti.go.id/dosen/detail/QjZBREIzNzEtNDE1Ni00N0MxLUE5NUItNDc0MDg0NDk4ODRG",5,1
+18,"Peb Ruswono Aryan",5,"https://forlap.ristekdikti.go.id/dosen/detail/OERDNEYyNkQtRTVBQS00Qjc0LUIzRDEtRUVGMTJEQTFBQzRE",4,1
+19,"Pekik Argo Dahono",3,"https://forlap.ristekdikti.go.id/dosen/detail/MTBFRjQwOUMtNTYxMy00MzdBLThFODItMzUzRUQ1MjgzRTk3",6,1
+20,"Riza Satria Perdana",4,"https://forlap.ristekdikti.go.id/dosen/detail/MEM3RjMyMTAtMjE5NS00OUU3LUI2MDMtOTkzRkQ3MkQzNzdE",4,1
+21,"Saiful Akbar",2,"https://forlap.ristekdikti.go.id/dosen/detail/NEMzODNDRjktQjZBNC00RkYxLTkyMUEtN0Q5NjYyNUExRkYx",4,1
+22,"Suhardi",1,"https://forlap.ristekdikti.go.id/dosen/detail/RkUyQ0FGQjYtQTFENy00ODA4LTlGMUUtM0YxOTEzMjJDRjgx",2,1
+23,"Suhono Harso Supangkat",3,"https://forlap.ristekdikti.go.id/dosen/detail/MkU4NkJDNEMtMDM3OC00RjQwLUFFOTQtNUU2Nzk2RjkyRkUx",3,1
+24,"Wikan Danar Sunindyo",2,"https://forlap.ristekdikti.go.id/dosen/detail/MTJEQkZCMDMtRTRFRi00NTZFLTlDOTItNkNFQUU4RUZFRDFE",2,1
+25,"Yanuarsyah Haroen",3,"https://forlap.ristekdikti.go.id/dosen/detail/RTE5RUZDRkYtMzExMS00QUFCLUE3OEYtOUU4ODc3OUY2MDc1",6,1
+26,"Yani Widyani",2,"https://forlap.ristekdikti.go.id/dosen/detail/MjI5MjYzOEEtRkVDNC00NTc0LUFBMUItREU0NkYyOTA4OTY1",4,1
+27,"Y. Bandung",2,"https://forlap.ristekdikti.go.id/dosen/detail/NDQxRDE1RjctOUE2OC00RDc0LTgzNTMtOUVCODU5RDExRjJC",2,1
+28,"Zenal Aripin",7,"https://forlap.ristekdikti.go.id/dosen/detail/QzU2OUJDQzktMjVFQi00RUMyLUFFODMtQzNERTRBMzNBQzcx",5,1
+29,"Yudistira Dwi Wardhana Asnar",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/MDI5QjdEMTYtMDIwNy00MjgzLTgyNzUtNUY5REY0MDY2RTA4",2,1
+30,"Windy Gambetta",4,"https://forlap.ristekdikti.go.id/dosen/detail/QUI5MzdBQ0UtOEIyOC00QTk1LTg5QzgtODE5OTk5MTk5NTQ0",4,1
+31,"Tricya Esterina Widagdo",2,"https://forlap.ristekdikti.go.id/dosen/detail/MUZDQjhGM0QtM0E1OS00OEZELUI5NzktODM4RUU3RDRGQzk3",4,1
+32,"Rinaldi",1,"https://forlap.ristekdikti.go.id/dosen/detail/MkUyQzRFQTEtOUQ4MC00QjQ4LUExMDctQjY0NjJFQTQ4MTJB",4,1
+33,"Rila Mandala",2,"https://forlap.ristekdikti.go.id/dosen/detail/MDkwM0JDNTEtQTVFNC00OUZDLUEzNkQtMzhGREJBNkQ2RTg2",2,1
+34,"Nur Ulfa Maulidevi",2,"https://forlap.ristekdikti.go.id/dosen/detail/MTA5RkYwMTgtNEQ1MC00QzdCLTlFQTktRTdGN0VDOTAwOTA0",4,1
+35,"Masayu Leylia Khodra",1,"https://forlap.ristekdikti.go.id/dosen/detail/QjFENTA3RkMtNjNFMC00OTEzLUEwMDItNDEwNjE4QkQyRTEw",4,1
+36,"Kuspriyanto",3,"https://forlap.ristekdikti.go.id/dosen/detail/ODE3MEVBRjMtQzY3NS00RDgzLUFBMTMtODFBQkE4OERDMTk2",6,1
+37,"Kridanto Surendro",1,"https://forlap.ristekdikti.go.id/dosen/detail/MTg2RUQ3NTYtRjNDRC00RTBELUJBQzQtNjQ3Qzc2MDZBRjMy",3,1
+38,"Henny Yusnita Zubir",4,"https://forlap.ristekdikti.go.id/dosen/detail/NDdDOTRCQjQtNTg1Qy00Njk4LTkyM0ItQUFERTlDRTVDQ0M5",2,1
+39,"Fadhil Hidayat",5,"https://forlap.ristekdikti.go.id/dosen/detail/MDM1N0YxRTItN0YwMS00MTczLUI0MzctMEQ2QjI1NDM1RTQ5",3,1
+40,"Dwi Hendratmo Widyantoro",3,"https://forlap.ristekdikti.go.id/dosen/detail/MUU0NzE0OEItRDY1Ny00MEVBLThBRjQtQjNFMTUxMEY5MkM1",4,1
+41,"Dessi Puji Lestari",2,"https://forlap.ristekdikti.go.id/dosen/detail/RjQzMUUzQjQtQUQ5QS00MzdBLThCREEtNUMyNzVFN0QwQjEx",2,1
+42,"Christine Suryadi",2,"https://forlap.ristekdikti.go.id/dosen/detail/Qjg1OTNDMUYtQ0FBNS00NzFBLUFCNEItNTNBOUNDMUI1NjI3",4,1
+43,"Bambang Riyanto Trilaksono",3,"https://forlap.ristekdikti.go.id/dosen/detail/NDRGREU0NkEtQUI5OC00OTQ0LUFEMTUtQjA2RTc5NUQzNTZD",6,1
+44,"Ayu Purwarianti",1,"https://forlap.ristekdikti.go.id/dosen/detail/ODg0MEM2RjItMDAwRC00MTU0LTk3Q0YtOTY1MzMzM0EwMkE1",6,1
+45,"Armein Z R Langi",3,"https://forlap.ristekdikti.go.id/dosen/detail/Q0Q4MjQ5QjUtMjdDNi00ODZCLUE3RDMtNjVGMTk4N0E3OTEx",6,1
+46,"Andriyan Bayu Suksmono",3,"https://forlap.ristekdikti.go.id/dosen/detail/MjUzMzdEODEtQzA3NC00RDZGLUJBMTYtODQ2QkIwNjUwNkI5",6,1
+47,"Albarda",1,"https://forlap.ristekdikti.go.id/dosen/detail/RjY5QjBGMkEtNjRGQi00RkE5LTlDNTItQzlCM0EwMUE4QjI1",3,1
+48,"Adi Mulyanto",4,"https://forlap.ristekdikti.go.id/dosen/detail/QzRERkFGQTYtMjA2QS00NzRBLThDMzMtNkRCNzVBQjEzNkMy",4,1
+49,"Achmad Imam Kistijantoro",2,"https://forlap.ristekdikti.go.id/dosen/detail/NEE4MjIzODgtODc4OC00QkI5LUEyNTItNzJCREQ5NzdDMDYy",3,1
+50,"Agus Buono",3,"https://forlap.ristekdikti.go.id/dosen/detail/OUJERTMxRjEtNzgxMy00RjE4LTgwN0UtQ0M1ODQzRDQ3NTdG",7,68
+51,"Aziz Kustiyo",2,"https://forlap.ristekdikti.go.id/dosen/detail/RjJGRDU4NkItRkVFMS00RUVDLThEQkEtOTY5NTFCMzkyMkRD",7,68
+52,"Auzi Asfarian",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/NTYxQzIxNjMtNTdFNy00QzYyLUI0MzMtQUNDMEMyOTEwQTUz",7,68
+53,"Mushthofa",4,"https://forlap.ristekdikti.go.id/dosen/detail/Q0Y2RUIyOTUtMkJDQS00Qjc2LTgyQkMtMEI1OUM4QzZCMTYy",7,68
+54,"Yeni Herdiyeni",1,"https://forlap.ristekdikti.go.id/dosen/detail/RTM1RkIwMEQtNzM5Qi00QUFCLTkwRDAtNUM1NjZBM0IzNDhB",7,68
+55,"Wisnu Ananta Kusuma",2,"https://forlap.ristekdikti.go.id/dosen/detail/RENERTE1QTAtMEI4Qy00MUFFLTlCMDQtM0JDQkU5NUYxNzMy",7,68
+56,"Toto Haryanto",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/NTczQ0YzMUUtQzI1NC00MUUwLTkzRDItRTMxQkRDRUMzNDAy",7,68
+57,"Rina Trisminingsih",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/NjJBMDgwRUQtMzhBMS00N0EyLTk0MTgtNDdFMjAzMjIxRTE1",7,68
+58,"Muhammad Asyhar Agmalaro",5,"https://forlap.ristekdikti.go.id/dosen/detail/RDU4MTY2MEYtQzUwOS00MDBBLUI5RUEtNUJBODNGNDdENkNE",7,68
+59,"Meuthia Rachmaniah",1,"https://forlap.ristekdikti.go.id/dosen/detail/NTg3MDM5OTYtMjcwMy00MzczLTkyOTktQ0I0MUFFQzBBNTlC",7,68
+60,"Karlisa Priandana",4,"https://forlap.ristekdikti.go.id/dosen/detail/NzczMTkyOEMtNDI5Ni00RUJDLTk2N0YtODg1MzJBQzMyNDhD",7,68
+61,"Julio Adisantoso",2,"https://forlap.ristekdikti.go.id/dosen/detail/MzczNkVGNTAtQkVBOC00ODJCLThEOEMtNzM2MzI0NzdDNzUw",7,68
+62,"Imas Sukaesih Sitanggang",2,"https://forlap.ristekdikti.go.id/dosen/detail/RDIwOENFMjMtNEUxNi00RDU2LUIyNjUtREIyNTA2RjVGM0VE",7,68
+63,"Hendra Rahmawan",5,"https://forlap.ristekdikti.go.id/dosen/detail/QjlGMEIxNDEtMzhGOC00NTY1LTk0QTEtQ0NGMjEyMzQwOEY4",7,68
+64,"Hari Agung Adrianto",4,"https://forlap.ristekdikti.go.id/dosen/detail/N0Y3MjFCQjctQ0QwQS00MzlFLTg3ODEtMTg3RjI2MzYxOEQw",7,68
+65,"Firman Ardiansyah",4,"https://forlap.ristekdikti.go.id/dosen/detail/OTEzQkNCQTUtNkJBNS00OEMwLThCMjgtQzI1OTY1NDAxNzMx",7,68
+66,"Endang Purnama Giri",4,"https://forlap.ristekdikti.go.id/dosen/detail/NDdBQTdDOUEtQzNGNS00Nzg1LTk5MzYtRDk2RjlDNkZFRTk3",7,68
+67,"Ahmad Ridha",2,"https://forlap.ristekdikti.go.id/dosen/detail/MEQyQUUyRTEtMkM5OC00RTVCLUI4RUMtMjE3QUE1NjMxQjY4",7,68
+68,"Annisa",4,"https://forlap.ristekdikti.go.id/dosen/detail/NzkyMEU3RTgtNjEyOS00QUVFLUFDM0ItRTQ0RDkxMEYwOTQ5",7,68
+69,"Achmad Holil Noor Ali",2,"https://forlap.ristekdikti.go.id/dosen/detail/MzIzMUJEOUEtMEI2NC00OThFLTg5QkQtQUZEQzBEQkFGOTNG",8,10
+70,"Abdul Munif",4,"https://forlap.ristekdikti.go.id/dosen/detail/NjQ3OEVGQ0UtQjgyRi00OUY1LTgwNEMtRUNDMjQ0MzQwNzM0",4,10
+71,"Ade Azurat",5,"https://forlap.ristekdikti.go.id/dosen/detail/QjI4NTg2QkQtNUZDNi00QTQyLTk2NzctNUJERDIzRTkxODk2",7,19
+72,"Amril Syalim",4,"https://forlap.ristekdikti.go.id/dosen/detail/NTY2Q0Q3NUMtRDZBMC00NDhDLUJDMjYtNUMzMkEwNThFMzBC",7,19
+73,"Ari Saptawijaya",5,"https://forlap.ristekdikti.go.id/dosen/detail/OUI3QjM1QjQtQkNGRS00RjY0LUJBODktMEVCQTEyNjAzNEQy",7,19
+74,"Bob Hardian Syahbuddin",5,"https://forlap.ristekdikti.go.id/dosen/detail/RkJBNEZEN0EtNzVFMy00NzhGLUIxMTEtNDE2ODMwNjc4Mjgz",9,19
+75,"Bobby Achirul Awal Nazief",2,"https://forlap.ristekdikti.go.id/dosen/detail/NThEMjNERDItNTdEMC00Qzg4LTlBRDctQkUyRjlDNjNFRTNC",9,19
+76,"Denny",4,"https://forlap.ristekdikti.go.id/dosen/detail/QUVGNkNBQ0ItQjdGQy00RTFELUJCMjItODBCMjcyNTY4RUEx",7,19
+77,"Dina Chahyati",2,"https://forlap.ristekdikti.go.id/dosen/detail/NjM5QTlEOTAtQjAxMi00MUVFLUIyQjYtNkQ4RjA0QkI5MTI2",7,19
+78,"Eko K Budiardjo",1,"https://forlap.ristekdikti.go.id/dosen/detail/NEFFQzdEMDItRjdERi00RjhBLTk2NUMtOUY1MTNBQ0I4NDQw",9,19
+79,"Ika Alfina",4,"https://forlap.ristekdikti.go.id/dosen/detail/ODk5QkE3MjQtNUIwQS00RkNBLUFEODgtQUI0NzRBRTA3RjFG",8,19
+80,"Iik Wilarso",4,"https://forlap.ristekdikti.go.id/dosen/detail/MjI1MDJCNjctRDczQi00NDA1LThFNjYtMDdFNEU3RDM3Q0Ez",8,19
+81,"Indra Budi",2,"https://forlap.ristekdikti.go.id/dosen/detail/RkE3RjY5MDQtRTEwQy00MzU5LTg3NjYtNkQ4QkM0QzlCNDYy",8,19
+82,"Lim Yohanes Stefanus",1,"https://forlap.ristekdikti.go.id/dosen/detail/MDhFMTg3OUEtNjY1Ny00MjlCLUJFNDQtRkQ5Q0I0NzQxNjdF",7,19
+83,"Mohamad Ivan Fanany",2,"https://forlap.ristekdikti.go.id/dosen/detail/M0M5RThDQjUtNDYxRC00M0U1LThCQkItOEIxOTk1QTY1MzI0",7,19
+84,"Muhammad Rahmat Widyanto",1,"https://forlap.ristekdikti.go.id/dosen/detail/ODY3NTU2RkMtQzM4Ni00RjdELUIwN0UtQTkxQzIzNTI4RjBD",7,19
+85,"Muhammad Rifki Shihab",4,"https://forlap.ristekdikti.go.id/dosen/detail/QjI0NkQ3NkQtNDg1MC00QjM4LTg5MkQtMkUzMUY5MENEQjQx",9,19
+86,"Petrus Mursanto",1,"https://forlap.ristekdikti.go.id/dosen/detail/NjY4REU3NkUtOTg2Qi00Rjg3LUJBQzktNjM1QkExRDJFQzQ5",7,19
+87,"Putu Wuri Handayani",4,"https://forlap.ristekdikti.go.id/dosen/detail/MEYwRjlGMDQtOUQyOC00MzNBLTlCMTQtRUQ4OUI1NjMzQ0I0",8,19
+88,"R Yugo Kartono Isal",2,"https://forlap.ristekdikti.go.id/dosen/detail/OTA0N0Y1NTQtOENBQi00RkFELUFCQzUtRTM3RDNEQkI5RjIw",7,19
+89,"Rahmat Mustafa Samik Ibrahim",2,"https://forlap.ristekdikti.go.id/dosen/detail/NkQwOTQ1NTctMzkyOS00MDI5LUI3RTgtNEUyQTE2NzBCMjk3",7,19
+90,"Setiadi Yazid",2,"https://forlap.ristekdikti.go.id/dosen/detail/MjgzNDIwMzAtOEQ3Ni00RERGLUFENUItQTk2MDg4QkQ2MEJC",9,19
+91,"Suryana Setiawan",4,"https://forlap.ristekdikti.go.id/dosen/detail/OTI3Q0EyMjMtOUUzMC00RTIyLTgxMDgtMEYxM0ZBQjFGNzlC",8,19
+92,"T Basaruddin",3,"https://forlap.ristekdikti.go.id/dosen/detail/NjhFMkY0NEYtRjU4Ri00MEJDLTlFQzAtNTdEQkM1NjEzMjA2",7,19
+93,"Widijanto Satyo Nugroho",2,"https://forlap.ristekdikti.go.id/dosen/detail/QTI2MjFBNUMtRkQ2MS00NzRCLTg2MzAtNjg4MUY0REU0MjFB",7,19
+94,"Wisnu Jatmiko",3,"https://forlap.ristekdikti.go.id/dosen/detail/NUIyOTVFMjMtOEE0Qi00N0ZFLUE4REUtMkUwODhFMEYxM0Ux",7,19
+95,"Yudho Giri Sucahyo",1,"https://forlap.ristekdikti.go.id/dosen/detail/QzY5RjNFMUItRTg2Mi00NjkwLTlDNUMtRTg1NTYxODk2Mzkz",9,19
+96,"Yova Ruldeviyani",2,"https://forlap.ristekdikti.go.id/dosen/detail/RDBGM0YwOUEtNjE4Ni00MEMzLTg5QkMtQ0FCRkVEQzNEREEz",7,19
+97,"Zainal Arifin Hasibuan",3,"https://forlap.ristekdikti.go.id/dosen/detail/MEQ4RDM5MzctMTFGQS00NERDLTk2N0EtQ0VFM0E4ODRBRDZC",9,19
+98,"Wahyu Catur Wibowo",2,"https://forlap.ristekdikti.go.id/dosen/detail/NTExMkUyOEQtM0JDMS00NkE3LTlCQzUtQjc2N0I0RDU2N0RF",8,19
+99,"Toemin A Masoem",3,"https://forlap.ristekdikti.go.id/dosen/detail/ODg2ODhBMEYtQUIxQS00OEY0LTlDMUItQjA2NkRFMUY4OEVF",8,19
+100,"Tisha Melia",5,"https://forlap.ristekdikti.go.id/dosen/detail/Qjg5RjM1RDItMzk3Mi00RTZBLUJDRjEtQjRDOEVDMTkyRjcw",7,19
+101,"Siti Aminah",4,"https://forlap.ristekdikti.go.id/dosen/detail/OTFBMTc1QjEtQkJDMy00NURBLUIyMTYtMjE5OUY3MUM1NTc0",7,19
+102,"Satrio Baskoro Yudhoatmojo",4,"https://forlap.ristekdikti.go.id/dosen/detail/MDg1MjRFQUQtNEFEQS00Q0M5LUIzQkYtREFGQzk2OUNFNTIw",8,19
+103,"Rizal Fathoni Aji",2,"https://forlap.ristekdikti.go.id/dosen/detail/QjdDRTM2QkUtRjM2OC00M0U0LThERTgtMjY0NTUyQjg4NTlD",8,19
+104,"Puspa Indahati Sandhyaduhita",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/OUY5MTI3MzYtMjAxRi00MjU2LUJBOTktQjY0N0QxNERCRkVD",8,19
+105,"Muhammad Hafizhuddin Hilman",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/QjQ5N0RBNkUtNjQ1Ny00MEJBLUEzQjQtMTdGQTU3Qzk5REEy",7,19
+106,"Mirna Adriani",2,"https://forlap.ristekdikti.go.id/dosen/detail/MjNGMDA5N0QtOEVGOC00OEUwLTlDMzItQTRFNDIwQjFFODJB",7,19
+107,"Kasiyah",1,"https://forlap.ristekdikti.go.id/dosen/detail/MUZBMEJGM0MtQUI0Qy00NEJBLTkyMDMtN0U3NTFFQzRCNDMz",7,19
+108,"Ito Wasito",2,"https://forlap.ristekdikti.go.id/dosen/detail/NkQwRUFCOTctOUI5MC00REExLThCRjctQjMwNTE4RjQxM0FE",7,19
+109,"Hisar Maruli Manurung",2,"https://forlap.ristekdikti.go.id/dosen/detail/QTNEOUE0NjktNjEwMi00OUFGLUJBRDgtRDgxMDJFMzU2MzhC",7,19
+110,"Heru Suhartanto",3,"https://forlap.ristekdikti.go.id/dosen/detail/Q0M1QzNBQkYtREVCNC00MjNDLUEwQUUtQjQ5NTAwRTg2NzE4",7,19
+111,"Heri Kurniawan",4,"https://forlap.ristekdikti.go.id/dosen/detail/QzJDRDg3RUQtM0IwRi00RUY2LTg2ODMtNTQ1NDNDRkZEQjhC",7,19
+112,"Harry Budi Santoso",2,"https://forlap.ristekdikti.go.id/dosen/detail/QjIyREVEMzktRjdFNS00RkY2LTg4MjUtMkQyQTI1QTcyQkY3",7,19
+113,"Gladhi Guarddin",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/M0Y4NTI1QTYtMzkwMS00NjNFLUE3QUUtQURDODIyNUM5RDY2",7,19
+114,"Erdefi Rakun",2,"https://forlap.ristekdikti.go.id/dosen/detail/RUI1ODZEQUMtMzVBOS00Q0ZFLUFDQ0YtRDg4RThDQTgxRTcx",7,19
+115,"Dana Indra Sensuse",2,"https://forlap.ristekdikti.go.id/dosen/detail/MjVBNEFDRUUtNUVFNi00RjJFLTkxQjYtMjdCNjU2NzA4RDA4",7,19
+116,"Dadan Hardianto",4,"https://forlap.ristekdikti.go.id/dosen/detail/M0VDMjAxMDctREJGRC00NkFCLTg2NTctNkVDNEVBMTYyOTky",8,19
+117,"Betty Purwandari",4,"https://forlap.ristekdikti.go.id/dosen/detail/MjQ0QTE1NkYtMjUzNi00RTZFLThBMDMtMEIzRjU5QkVDNEYw",7,19
+118,"Bayu Distiawan Trisedya",4,"https://forlap.ristekdikti.go.id/dosen/detail/MzYwQjc4MkMtNjhBRC00NjQ5LUIwMzktNUM2RjE0MENDNzdF",8,19
+119,"Bayu Anggorojati",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/RUFBMEMyMDAtN0RENi00MDBELUI1MjAtMEYxREQ3MjQyMzVE",7,19
+120,"B Nugroho Budi Priyanto",5,"https://forlap.ristekdikti.go.id/dosen/detail/Q0VGOThGMjQtOENDOS00RDI3LUJCODItNDg5NkUwOUExOEZB",7,19
+121,"Aniati Murni Arymurthy",3,"https://forlap.ristekdikti.go.id/dosen/detail/NTVERkQwOTAtQUQ5RC00QTZDLTk0MjMtOTU3QjBDMUJGQTEz",7,19
+122,"Alfan Farizki Wicaksono",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/QTcwNDFFM0EtOUI0QS00NjQ3LTg3ODQtNkU4NDcwMTI5NDY5",7,19
+123,"Agus Kurniawan",5,"https://forlap.ristekdikti.go.id/dosen/detail/NThEQTQ2REQtRDgyRS00RTVCLThDNTMtRUQ5ODEyNEE3Q0Qw",7,19
+124,"Adila Alfa Krisnadhi",5,"https://forlap.ristekdikti.go.id/dosen/detail/MEE3NzYwQTgtQkRFMi00QzgxLTk4NEMtMDUxOUUzNjI5QThB",7,19
+125,"Adhi Yuniarto",4,"https://forlap.ristekdikti.go.id/dosen/detail/NzM0MjAyOUEtOTM1RS00NjYzLTlDMjMtNDk5QUMxRjIwOEYw",7,19
+126,"Achmad Nizar Hidayanto",1,"https://forlap.ristekdikti.go.id/dosen/detail/NDk2MzcyOTEtMTQ0MC00NUI3LThEQkQtOUI2NERGRDdGQjEx",9,19
+127,"Agus Zainal Arifin",1,"https://forlap.ristekdikti.go.id/dosen/detail/QkVGMEU0RkMtQzFEQy00Q0E5LUI3NTQtRTNDNzUwMzQ0QkNE",7,10
+128,"Adhatus Solichah Ahmadiyah",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/NTU5QTJGNUYtNUYyNi00OUQ4LUFFRDktREVGNDIxRUQzNDA5",4,10
+129,"Addin Suwastono",4,"https://forlap.ristekdikti.go.id/dosen/detail/RkFEQzhENUMtQjlDRi00MTVFLTg3QzgtMjBCMjNDOTNDOEIz",9,73
+130,"Afiahayati",2,"https://forlap.ristekdikti.go.id/dosen/detail/N0E2QUQyN0YtMUFGNi00RUY2LTgxMDYtRTU2NTNGODNBMDE2",10,73
+131,"Agfianto Eko Putra",2,"https://forlap.ristekdikti.go.id/dosen/detail/QUU4NjlBOTUtQTUyNi00Qjg5LUExQTMtMjhEODVEMTc3MzdE",11,73
+132,"Agus Harjoko",1,"https://forlap.ristekdikti.go.id/dosen/detail/NjI1MTkwNzYtODc0OS00N0M3LUFBRTMtMUY4ODA1NjQ3MDc4",11,73
+133,"Agus Sihabuddin",4,"https://forlap.ristekdikti.go.id/dosen/detail/NjA4NDI2QzgtNkYwOC00OUVFLTg4QTUtNUUwQTJGODJFODEy",7,73
+134,"Aina Musdholifah",2,"https://forlap.ristekdikti.go.id/dosen/detail/OTIxODhBMzUtMEEzQy00OTVELUIzMjEtN0U4OUQyRjY4MTJD",10,73
+135,"Anifuddin Azis",2,"https://forlap.ristekdikti.go.id/dosen/detail/RURFM0EwMkMtQTgzRC00QjIzLUE0NUQtMjZDMkIxN0RCNTM4",7,73
+136,"Anindita Suryarasmi",4,"https://forlap.ristekdikti.go.id/dosen/detail/NzREMjAxRkMtRDA1Mi00QjE5LUI2NTktN0RFMzhBMUI0MzBC",12,73
+137,"Anny Kartika Sari",4,"https://forlap.ristekdikti.go.id/dosen/detail/Mjg4NzMxNkMtQjA1MS00MjA3LUFGMUItMkM4RjM5QTI5NkE1",7,73
+138,"Ariesta Martiningtyas Handayani",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/MUJGRjE1MUUtMzEwMy00RERDLUJDNzgtQ0JCODRCNDVBQUIx",12,73
+139,"Arif Nurwidyantoro",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/QkY2RjI5ODYtMjRBNC00RTY1LTg4OTMtMkZDRkQzM0Q5MDFF",7,73
+140,"Azhari",1,"https://forlap.ristekdikti.go.id/dosen/detail/MTdBNDUyRjQtMzY3QS00NjVBLUJEOTktRDFBRENEOUIyMEY0",10,73
+141,"Bimo Sunarfri Hantono",2,"https://forlap.ristekdikti.go.id/dosen/detail/MzMyMjQzODQtRUUwQi00RUY1LUI1NjctQTY4RUMyQkU4MjlC",9,73
+142,"Danang Lelono",2,"https://forlap.ristekdikti.go.id/dosen/detail/NDEwNjEyMTAtMTBDNC00RkZGLTgyMEUtQzYwOTQ3NzIzMjQ5",10,73
+143,"Dani Adhipta",4,"https://forlap.ristekdikti.go.id/dosen/detail/NzY5ODVGOUItQTg0MS00QkM3LTk3M0QtMzg0MzE3Q0REMjM2",9,73
+144,"Divi Galih Prasetyo Putri",4,"https://forlap.ristekdikti.go.id/dosen/detail/RjA4N0NGN0MtNEJBMi00NEUyLTk2MDMtMzlGNzZBMTMyMjJG",12,73
+145,"Edi Winarko",1,"https://forlap.ristekdikti.go.id/dosen/detail/Qzk5ODg1NEYtNTU3Qi00MTZCLTlDOEItNzYxNkMyNzFFQTVF",11,73
+146,"Enas Dhuhri Kusuma",5,"https://forlap.ristekdikti.go.id/dosen/detail/N0RCMTVFQzItQTE2Qy00NzIxLUFCMTktMDQxNUIyQzcxMUYy",9,73
+147,"Endro Purnomo",5,"https://forlap.ristekdikti.go.id/dosen/detail/QjI1NUQ1MTMtQzhCQy00REQ0LTlBQzYtNjJGOEUxQkNBNTBD",12,73
+148,"Faizah",5,"https://forlap.ristekdikti.go.id/dosen/detail/ODY0NzdDODUtRTMyNi00NzcwLTkzQTgtMEVGMzlCMkYwMTAz",7,73
+149,"Faizal Makhrus",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/QzA4MTlDRjItM0IyOS00NzlELUJEMkEtRkVFQjg0NDVBMTU5",10,73
+150,"Guntur Budi Herwanto",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/MjgwNUI0MTAtRjYyQS00MTc1LUExMUEtMDkzMTA4QUU4NzRG",7,73
+151,"I Gede Mujiyatna",4,"https://forlap.ristekdikti.go.id/dosen/detail/QURGQTFCQUQtQzI5NS00N0FGLUEzMjUtMjlBQTE3RDQ2MkE1",7,73
+152,"Imam Fahrurrozi",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/MzJFODIwOTktRjVDQS00RjNFLThGOTUtNDhDMjQ2NjBBNkNC",12,73
+153,"Indriana Hidayah",2,"https://forlap.ristekdikti.go.id/dosen/detail/NUNDOTQzQjQtODU4NS00M0U5LUE0RTMtNDNDQUIwNDg5QkQw",9,73
+154,"Irkham Huda",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/MEM3NDRFM0YtRDgyNS00NTJGLTk4MDQtOTFEMDNEN0VCQjJG",12,73
+155,"Isna Alfi Bustoni",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/RDZEQUZBQUUtNTY1RC00OTFCLUJENkQtNzZFRjA3MjRBMEZE",7,73
+156,"Janoe Hendarto",4,"https://forlap.ristekdikti.go.id/dosen/detail/MThBMTBCNzEtNEE0My00OTEzLTk4QTMtMjcyMjc0QzIwRTQ0",7,73
+157,"Jazi Eko Istiyanto",3,"https://forlap.ristekdikti.go.id/dosen/detail/OTQ0MkQ5REYtNjU0Mi00RjA4LTgyQUQtMzQ2RDVDMDBGMkMx",11,73
+158,"Lukman Awaludin",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/RDA4RTA1MDgtOEMxQy00MDlELTg4NEItQzk1RTM1MUY1MzFE",7,73
+159,"Lukman Heryawan",5,"https://forlap.ristekdikti.go.id/dosen/detail/QTU3QjIyM0EtOTYyRi00MzFCLUFENTEtODE4Q0YxNDM4OEM5",7,73
+160,"Marcus Nurtiantara Aji",4,"https://forlap.ristekdikti.go.id/dosen/detail/NzkwREU4OTQtNkMzNy00MUY3LTg0ODMtQTBENkREQjJFRjk4",9,73
+161,"Mardhani Riasetiawan",5,"https://forlap.ristekdikti.go.id/dosen/detail/OTcxMkEyODEtRkQ1NC00RThBLUFEMTAtRDlDMTc3RUQyMkU3",7,73
+162,"Mhd. Reza M.I. Pulungan",1,"https://forlap.ristekdikti.go.id/dosen/detail/NDk4QUE0OTktRUE2Qi00Qjg2LUJBRDAtNzhCRTYzMzRBNkFF",11,73
+163,"Medi",2,"https://forlap.ristekdikti.go.id/dosen/detail/MjRCNzI5QTMtRjFDRi00RTUxLTkxOEQtOTE2MUYyMDlCNjAy",7,73
+164,"Mohammad Edi Wibowo",5,"https://forlap.ristekdikti.go.id/dosen/detail/NEQyRTFGODAtNUVGRi00QkZELTlFMDMtNUNCQTlFQzRFQjkw",10,73
+165,"Muhammad Fakhrurrifqi",4,"https://forlap.ristekdikti.go.id/dosen/detail/M0E0RDAwRjctMUJGOC00MzRCLTlCQTgtQkY5MDg5NDRDODhC",12,73
+166,"Muhammad Nur Rizal",4,"https://forlap.ristekdikti.go.id/dosen/detail/RTFDNURFMjUtOEIxNy00QTAwLTlBMDAtQUQyQTQ5Qjc2NjUw",9,73
+167,"Raden Rara Ruri Indirasari",5,"https://forlap.ristekdikti.go.id/dosen/detail/Qjc1MEU1REYtM0EyMi00NEQ5LTlBRDctODUwOEFGRDNDQzUx",7,73
+168,"Ahmad Muklason",4,"https://forlap.ristekdikti.go.id/dosen/detail/M0NFNkI4RTAtQjI0MS00NEVBLUI5RTEtODVBNjFENUYxNDZG",8,10
+169,"Ahmad Hoirul Basori",4,"https://forlap.ristekdikti.go.id/dosen/detail/QkM1RUMyNzgtMTY1My00RTJBLUIxMTQtMEY0REZCODMyMEU1",4,10
+170,"Ahmad Saikhu",1,"https://forlap.ristekdikti.go.id/dosen/detail/QzNDRTFBM0MtQUVDNy00MzVELUFBOEItNjRGNjg5RDkyN0FG",4,10
+171,"Amalia Utamima",5,"https://forlap.ristekdikti.go.id/dosen/detail/QTI1QUVGNEMtRkJERi00RkRDLUE5RUMtRDVCNTcxRjRFNTU1",8,10
+172,"Amna Shifia Nisafani",5,"https://forlap.ristekdikti.go.id/dosen/detail/RjY4RTE2RTgtRDUyNi00MERBLUJDQzMtM0MzQTQ4M0ZDQjg3",8,10
+173,"Andre Parvian Aristio",5,"https://forlap.ristekdikti.go.id/dosen/detail/NjU2QjFGRjItNTUzOC00QzM1LUFEMTgtRjNFQTI1RURFMzZB",8,10
+174,"Anisah Herdiyanti",5,"https://forlap.ristekdikti.go.id/dosen/detail/RTIyQkMwRUYtRjQzQy00RDFFLUJCM0YtNDI2RjExREU4OTlF",8,10
+175,"Apol Pribadi Subriadi",2,"https://forlap.ristekdikti.go.id/dosen/detail/MjVFMzdGRkEtNUVGMC00Q0NDLUIxQUUtNjJGMzU0RjA0MzlC",8,10
+176,"Anny Yuniarti",1,"https://forlap.ristekdikti.go.id/dosen/detail/M0M2NkU2NkEtMzdGQy00OTY5LUIzNTItMDY0MTlGREZGNEEy",4,10
+177,"Arif Bramantoro",4,"https://forlap.ristekdikti.go.id/dosen/detail/MjI2RTI1NEItRUM5Ny00NzhDLTg0NzAtNjMxQzA1RDY1OUQ3",4,10
+178,"Arif Djunaidy",3,"https://forlap.ristekdikti.go.id/dosen/detail/Q0NGOTBFRjUtQzIzQi00MDg5LTg3NjctMkRFQjFFNEEyMEIy",8,10
+179,"Arif Wibisono",2,"https://forlap.ristekdikti.go.id/dosen/detail/QTQ2NzJEOUMtODc0MS00NDM1LUFGODktNEFCMzQwRUNGNUI4",8,10
+180,"Aris Tjahyanto",1,"https://forlap.ristekdikti.go.id/dosen/detail/Njc1NDdFMDctNDk0OC00REZFLTk3NkQtOUE4RDJCMzJBMjdG",8,10
+181,"Ary Mazharuddin Shiddiqi",1,"https://forlap.ristekdikti.go.id/dosen/detail/QjlCOTY1Q0QtM0VFOC00NUUxLTlBNEItNEFGQ0JCODBBMUM4",4,10
+182,"Arya Yudhi Wijaya",2,"https://forlap.ristekdikti.go.id/dosen/detail/NDRCMzM1NEEtMDUyQS00QkMwLUIzMTQtMTNDMjg0RjM4QTY3",4,10
+183,"Bambang Setiawan",2,"https://forlap.ristekdikti.go.id/dosen/detail/REVBQzZGODktOEQ5Ri00RjU0LTk3ODgtMEUxMUUwRDZDQTUw",8,10
+184,"Baskoro Adi Pratomo",4,"https://forlap.ristekdikti.go.id/dosen/detail/RURCMTg4ODYtMjM0Ri00MzNBLUIwOUQtMTc2NDRBQjQ1NTFD",4,10
+185,"Bekti Cahyo Hidayanto",4,"https://forlap.ristekdikti.go.id/dosen/detail/NEU0MjEwNjAtNDdBQS00M0VGLUI2NjEtODQwMzFDRjlEQzAw",8,10
+186,"Bilqis Amaliah",2,"https://forlap.ristekdikti.go.id/dosen/detail/MUVGMDlBNTMtMEVFQS00MzA5LUFEMEUtMEUzNjlFQUE2RDND",4,10
+187,"Chastine Fatichah",1,"https://forlap.ristekdikti.go.id/dosen/detail/OTgzMDlBQTgtMDM5Ri00RkE4LTk4MTYtMDQyNjM2ODNFMDM5",4,10
+188,"Danu Pranantha",4,"https://forlap.ristekdikti.go.id/dosen/detail/RjFENjg2NjYtQjYyNy00RTdCLTkzRDItMzMwMzlFN0Q5QTU4",8,10
+189,"Darlis Herumurti",2,"https://forlap.ristekdikti.go.id/dosen/detail/QjA2ODI3Q0YtNDEwNi00RTJELTlCRUItNzgyRjc4N0ExQzFC",4,10
+190,"Daniel Oranova Siahaan",1,"https://forlap.ristekdikti.go.id/dosen/detail/NDlFMTBFMUUtNTUwMS00REFFLTg0MjItNzU0NTAxRENFQzdF",4,10
+191,"Diana Purwitasari",1,"https://forlap.ristekdikti.go.id/dosen/detail/NUQyNjYwMUUtRjdGQy00Mzk1LTg2MjctQUFERTMzMTRENTg0",4,10
+192,"Dini Adni Navastara",4,"https://forlap.ristekdikti.go.id/dosen/detail/MTY3NjkzNDItMUVENi00N0FELThBREEtMTcxRjgwMTJEQTdE",4,10
+193,"Dwi Sunaryono",2,"https://forlap.ristekdikti.go.id/dosen/detail/RUEyQTgwQjMtODAxRi00QkU2LUJBMDEtQ0IwODhENzYxQzI3",4,10
+194,"Edwin Riksakomara",2,"https://forlap.ristekdikti.go.id/dosen/detail/OEIyMTRBOEEtMEY1OS00OUEyLTk5MUItODc1OTEyQzZBQjAy",8,10
+195,"Eko Wahyu Tyas Darmaningrat",4,"https://forlap.ristekdikti.go.id/dosen/detail/OTcyMUY0RUYtREFCOC00QzA4LTg0NjctMTcwRkE3RDQxNzkz",8,10
+196,"Erma Suryani",1,"https://forlap.ristekdikti.go.id/dosen/detail/Nzc3RDU3RjMtMDVGNS00OUZBLUIxRDYtQzU1NjBENEE4N0Mw",8,10
+197,"Eva Mursidah",8,"https://forlap.ristekdikti.go.id/dosen/detail/Q0QyMEQyOTUtNTI1MS00NjJBLUE4MTEtRkFBNjkwODhCNUYw",4,10
+198,"Faizal Johan Atletiko",2,"https://forlap.ristekdikti.go.id/dosen/detail/QTg2RkQzOTAtOTNCRi00RDA3LThDN0EtNDYxQzA4NTNBNDdG",8,10
+199,"Faizal Mahananto",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/QzFBRkZEQzAtNTg5Qi00QzdDLTlBOUEtMThDQkRGRkFERUIy",8,10
+200,"Fajar Baskoro",2,"https://forlap.ristekdikti.go.id/dosen/detail/M0E4RTQzNEQtNDI4My00MDUzLTkyOUQtOUM4N0Y3RDU4OTkw",4,10
+201,"Febriliyan Samopa",1,"https://forlap.ristekdikti.go.id/dosen/detail/NEJCOTg4M0QtOTMzNy00NUQ2LUE0NEUtRjJENkI5NjRDMDFC",8,10
+202,"Feby Artwodini Muqtadiroh",2,"https://forlap.ristekdikti.go.id/dosen/detail/QzA1QjVDRkEtRTNBMS00NkMwLTkzOTgtM0I3MThEQUYyOEIy",8,10
+203,"Fx Arunanto",2,"https://forlap.ristekdikti.go.id/dosen/detail/OEM2Mzg4MzAtNEUyQy00OUI5LUFGNEEtNzdBQ0JBOTAyRjND",4,10
+204,"Handayani Tjandrasa",3,"https://forlap.ristekdikti.go.id/dosen/detail/RTlBRUM5QjMtNjJGMS00NjBELUFFMjQtQTUxMTRFNjZFNTVE",7,10
+205,"Hanim Maria Astuti",2,"https://forlap.ristekdikti.go.id/dosen/detail/N0M0RjEwMUItOEU0MC00RTkwLUI0MDYtOEI2RUE4MDVBQUVG",8,10
+206,"Hatma Suryotrisongko",NULL,"https://forlap.ristekdikti.go.id/dosen/detail/NDQ0NDA4RUQtN0FCQS00MkMzLTgxOUEtMDE3ODhCMThGRjQ2",8,10
+207,"Henning Titi Ciptaningtyas",2,"https://forlap.ristekdikti.go.id/dosen/detail/MjY5RUU2QzMtRUJBQS00QzFDLThCNDEtOUEzNDdDMkI2RTQz",4,10
+208,"Hudan Studiawan",2,"https://forlap.ristekdikti.go.id/dosen/detail/MzgwNUY3NDItQTkyOC00RTE2LUI5QkMtQzA1NDczNzA0QjYx",4,10
+209,"Imam Kuswardayan",2,"https://forlap.ristekdikti.go.id/dosen/detail/OTgzRDkwRTUtNkQ1NC00Q0I0LTlGNTAtQzc1MDQzQ0JDNjcz",4,10
+210,"Irmasari Hafidz",5,"https://forlap.ristekdikti.go.id/dosen/detail/ODU0MEUxOEMtRUEzMi00QkUwLUExNDMtNUJDQTJDQjg2QTU5",8,10
+211,"Isye Arieshanti",2,"https://forlap.ristekdikti.go.id/dosen/detail/REE1MTAwOUMtMTRBNy00NEE3LUFEOEUtNkQ4MDNDQjZEMkFG",4,10
+212,"Joko Lianto Buliali",3,"https://forlap.ristekdikti.go.id/dosen/detail/RTVFQkY3RjQtN0E1RS00QjZFLThBQzAtNEQ0RDFGOTZBNDU2",7,10
+213,"Khakim Ghozali",1,"https://forlap.ristekdikti.go.id/dosen/detail/MzI1OUY3QTQtMUJBQS00MzQ2LUFEMjAtOUNCRjA5QzI4MUU1",8,10
+214,"Mahendrawathi Er",1,"https://forlap.ristekdikti.go.id/dosen/detail/N0JCNjZDMjgtNDkxMS00NDFBLUJDMzQtRjM2MkUzN0M3MDky",8,10
+215,"Misbakhul Munir Irfan Subakti",2,"https://forlap.ristekdikti.go.id/dosen/detail/ODNEQjVCNEEtODRBQy00RDg2LTg5M0EtMjBDQjcxQzQ1RjFD",4,10
+216,"Muchammad Husni",1,"https://forlap.ristekdikti.go.id/dosen/detail/RTkyQzMxNUEtQTM2Ny00OEU3LTlBRDktQTY1Q0MxNzE4REI4",4,10
+217,"Mudjahidin",2,"https://forlap.ristekdikti.go.id/dosen/detail/NjIzQTAyMjMtNzBGNC00RENDLUIyMjctNTQ3NTAwNUY1NzQ5",8,10
+218,"Nanik Suciati",1,"https://forlap.ristekdikti.go.id/dosen/detail/Q0VFQTY1NTUtMzJGRC00N0Q1LTg1NTEtMDJDQUE3NkVBQ0ND",7,10
+219,"Nisfu Asrul Sani",4,"https://forlap.ristekdikti.go.id/dosen/detail/NkZGQUExRjYtQkExMi00MzYwLUFDMjktQjg3MkNCMTQ4NjlD",8,10
+220,"Nur Aini Rakhmawati",2,"https://forlap.ristekdikti.go.id/dosen/detail/Mjc2RTU5RkMtMzkwRi00RDA5LTk2RTAtNUUxOUY5QTcwMjg4",8,10
+221,"Nurul Fajrin Ariyani",4,"https://forlap.ristekdikti.go.id/dosen/detail/NjEyODNENDktMThDRC00NTAzLUIzMkYtRDk3NUU5QTdCMEQz",4,10
+222,"Raden Venantius Hari Ginardi",2,"https://forlap.ristekdikti.go.id/dosen/detail/MUI2RTczRjYtNTk4RS00MzY3LTg1NEQtNEE1RTkwNzc5M0Iy",4,10
+223,"Raras Tyasnurita",5,"https://forlap.ristekdikti.go.id/dosen/detail/RTQ3MzE5MTQtQ0RDRi00QjkzLUFEQjYtM0MwNDFDQTI2QjI1",8,10
+224,"Ratih Nur Esti Anggraini",4,"https://forlap.ristekdikti.go.id/dosen/detail/ODM5MTUzRTYtQzgzMS00MTM5LUFDQUEtMzI4MTNGNDVBQkFF",4,10
+225,"Radityo Anggoro",2,"https://forlap.ristekdikti.go.id/dosen/detail/Qzc2NkU3OTctQ0VEQy00RDQ5LTk4MTItQTRBNzZBNDA0OTQx",4,10
+226,"Radityo Prasetianto Wibowo",4,"https://forlap.ristekdikti.go.id/dosen/detail/RUFDMzQ1NzgtNzAzQy00QTNBLUI3NDctRDg4OTlCMjBGREEz",8,10
+227,"Renny Pradina Kusumawardani",4,"https://forlap.ristekdikti.go.id/dosen/detail/MkZDRDk0MTItRTY4Qi00RDZCLTgxMDctMzMwRkNBNjJCQkQ3",8,10
+228,"Retno Aulia Vinarti",5,"https://forlap.ristekdikti.go.id/dosen/detail/MzQ5MjY3MkItRTM5OS00M0ZGLUJGNDctNEVGMjI5RjJGMDg2",8,10
+229,"Ridho Rahman Hariadi",4,"https://forlap.ristekdikti.go.id/dosen/detail/QzQ5MERBMUQtOTcyNy00RTA5LUI5NUYtREQ2REM4MTg3MEZD",4,10
+230,"Rizky Januar Akbar",4,"https://forlap.ristekdikti.go.id/dosen/detail/QzQ3MjNCQjgtMTMxRi00NzNCLTkyRDgtMzYyRDFFQjgxMzlE",4,10
+231,"Riyanarto Sarno",3,"https://forlap.ristekdikti.go.id/dosen/detail/M0U2RDk3MDUtMzRFNC00QzFDLTkzRUUtMDZCMjI3RDBCMjJG",7,10
+232,"Royyana Muslim Ijtihadie",2,"https://forlap.ristekdikti.go.id/dosen/detail/M0Y5QkFDN0YtQzZEOC00MTJFLUIwMEYtQTYzM0RBNTM2NDNE",4,10
+233,"Rully Agus Hendrawan",2,"https://forlap.ristekdikti.go.id/dosen/detail/NkQ3RjIyOTgtODE1Mi00NjRGLTlFMEQtREVEODNFMDAyNzU3",8,10
+234,"Rully Sulaiman",1,"https://forlap.ristekdikti.go.id/dosen/detail/QUJFNkQ2MkUtRjU5Qi00OTlELUI5RDItNjI1MzgwRDMwMkQw",4,10
+235,"Sarwosri",1,"https://forlap.ristekdikti.go.id/dosen/detail/NjcwNEQxMTktQkJCNi00RTlFLUJCOTEtN0RFMjU1NTUwQ0U3",4,10
+236,"Sholiq",1,"https://forlap.ristekdikti.go.id/dosen/detail/NEY4RDE2MDctNzA2OC00MTY0LTk2OEUtRkI4NTRFMDhGMkMz",8,10
+237,"Siti Rochimah",1,"https://forlap.ristekdikti.go.id/dosen/detail/ODg2NzNGM0EtNTM2OS00MUE0LUJGN0YtQkYyRTVCQTU3QTAz",4,10
+238,"Suhadi Lili",2,"https://forlap.ristekdikti.go.id/dosen/detail/QkUyMDZCN0YtNzQxOC00OUY0LUI2NzMtM0EyMjQ1OEFFOTBD",4,10
+239,"Supeno Djanali",3,"https://forlap.ristekdikti.go.id/dosen/detail/OEM1RkNGRUItOEVGNy00NjQ5LUJENDYtMEE4M0RDNThFNkI1",7,10
+240,"Tohari Ahmad",1,"https://forlap.ristekdikti.go.id/dosen/detail/OTA4RjgxOTYtQkNFNi00QzIwLTkxODQtODZFNkI2Mzc0Nzkx",4,10
+241,"Tony Dwi Susanto",2,"https://forlap.ristekdikti.go.id/dosen/detail/MjJBQzgzNTAtMDUyOC00Qzk3LUI5MDAtODRDNzQyQjYxRTY2",8,10
+242,"Umi Laili Yuhana",1,"https://forlap.ristekdikti.go.id/dosen/detail/OEVFRDczMTEtNjY2OS00NkIyLUI0RUYtNDgxMTBGQjQ3MEVC",4,10
+243,"Victor Hariadi",2,"https://forlap.ristekdikti.go.id/dosen/detail/OEY3RDc1RDgtOUM0MC00REIwLUI0REItOTQyOTIwNTdGRjU1",4,10
+244,"Wahyu Suadi",4,"https://forlap.ristekdikti.go.id/dosen/detail/OTFCNkY3MTgtN0I2RS00MTRBLTk5QjctMDJERTZBMUI1MjAy",4,10
+245,"Waskitho Wibisono",1,"https://forlap.ristekdikti.go.id/dosen/detail/MkVEMzQ2MjUtNkU4MC00MkEzLThBNTMtMjUzM0E0MzIxNzQ0",4,10
+246,"Wijayanti Nurul Khotimah",4,"https://forlap.ristekdikti.go.id/dosen/detail/MTlGQUVCNjgtN0JCRS00MTg1LUFBQUEtNzFFNDhDMTREM0VE",4,10
+247,"Wiwik Anggraeni",1,"https://forlap.ristekdikti.go.id/dosen/detail/NjY4QTE3RDctNEZGRi00QzUyLTgzM0EtMjE4MDBGQkE4MUNF",8,10
+248,"Yudhi Purwananto",1,"https://forlap.ristekdikti.go.id/dosen/detail/OEFCRjQzNDEtMzExQi00NjE0LUFDNzAtQzU1OTMzNkREMEY3",4,10
+249,"Retantyo Wardoyo",1,"https://forlap.ristekdikti.go.id/dosen/detail/OUU3QkJFQjItMzIwOS00MEQ3LUIxNkMtMDUxQ0JCNUUxMUJB",11,73
+250,"Ridi Ferdiana",1,"https://forlap.ristekdikti.go.id/dosen/detail/QjAyNDU1QUEtOENCMC00NTdCLTkzQUYtMjRFNkEzODk1Q0NC",9,73

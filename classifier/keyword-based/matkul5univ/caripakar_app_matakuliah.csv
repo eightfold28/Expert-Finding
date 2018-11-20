@@ -1,0 +1,2227 @@
+id,nama_matakuliah,keahlian_id
+1,Sistem Operasi,3
+2,Jaringan Komputer & Pengamanannya,3
+3,Sistem Terdistribusi,3
+4,Jaringan Komputer,3
+5,Sistem Komputer,3
+6,Pemrosesan Dan Manajemen Data Multimedia,4
+7,Project Management,5
+8,Tesis,NULL
+9,Sistem Arsitekturkomputer A,3
+10,Sistem Operasi Lanjut,3
+11,Sistem Paralel Dan Terdistribusi,3
+12,Sistem & Arsitektur Komputer A,3
+13,Tesis I,NULL
+14,Pemodelan Berorientasi Obyek & Rek. Per.,2
+15,Basis Data Multimedia,4
+16,Perancangan Perangkat Lunak,5
+17,Bisnis Secara Elektronik,NULL
+18,Rangkaian Logika Teknik Digital,10
+19,Interaksi Komputer-Manusia,5
+20,Sistem Multimedia,3
+21,Tesis Ii,NULL
+22,Rangkaian Logika & Teknik Digital,10
+23,Manajemen Proyek Teknologi Informasi,4
+24,Pengembangan Aplikasi Berorientasi Objek,1
+25,Pemrograman Paralel,1
+26,Rekayasa Perangkat Lunak Lanjut,5
+27,Sistem Digital,3
+28,Sistem Probabilistik Dan Stokastik,3
+29,Matematika Teknik I,2
+30,Agama Dan Etika Katolik,NULL
+31,Pengenalan Teknologi Informasi A,4
+32,Pancasila Dan Kewarganegaraan,NULL
+33,Pemahaman Teks Akademik,NULL
+34,Tata Tulis Karya Ilmiah,NULL
+35,Fisika Dasar Iia,NULL
+36,Ekonomi Teknik,NULL
+37,Agama Dan Etika Protestan,NULL
+38,Olah Raga,NULL
+39,Agama Dan Etika Budha,NULL
+40,Etika Hukum Cyber,NULL
+41,Manajemen Data,4
+42,Teknik Presentasi,NULL
+43,Rekayasa Interaksi,5
+44,Kalkulus Ia,2
+45,Komposisi,NULL
+46,Tugas Akhir I  Seminar,NULL
+47,Sistem Alam Semesta,3
+48,Praktikum Sistem Digital,3
+49,Rekayasa Perangkat Lunak,5
+50,Jaringan Informasi,3
+51,Manajemen Keekonomian Proyek,4
+52,Politik Dan Tata Pemerintahan,NULL
+53,Elektronika I,NULL
+54,Manajemen Insani Kontemporer,4
+55,Struktur Diskrit,2
+56,Pengembangan Organisasi Dan Organisasi P,NULL
+57,Celup Ikat,NULL
+58,Bisnis Secaraelektronik,NULL
+59,Perancangan Arsitektur Enterprise,9
+60,Perencanaanstrategis Teknologi Inf,NULL
+61,Kapita Selekta Sti,NULL
+62,Sistem Arsitekturkomputer B,3
+63,Pengetahuanlingkungan,NULL
+64,Hukum Etikateknologi Informasi,4
+65,Keamanan Informasi,4
+66,Dasar Pemrograman,1
+67,Sosiologi Komunikasi,NULL
+68,Pengantar Analisis Rangkaian,2
+69,Manajemem Pengembangan Aplikasi,1
+70,Komunikasi Merek,NULL
+71,Pemrosesan Bahasa Alami Dan Ucapan,7
+72,Visualisasi Data Dan Informasi,4
+73,Manajemen Pengembangan Aplikasi,4
+74,Manajemen Informasi B,4
+75,Pemrograman Lanjut,1
+76,Teknologi Basis Data,4
+77,Studi Mandiri Ii,NULL
+78,Manajemen Informasi A,4
+79,Topik Khusus Ii,NULL
+80,Teori Basis Data,4
+81,Studi Mandiri I,NULL
+82,Manajemen Resiko Enterprise,4
+83,Metodologipenelitian/Tesis 1,NULL
+84,Sistem Basis Data,4
+85,Sistem Basis Data Terdistribusi,4
+86,Basis Data Nonrelasional,4
+87,Basis Data,4
+88,Konsep Pengembangan Ilmu Pengetahuan,7
+89,Pemodelan Basis Data,4
+90,Manajemen Informasia,4
+91,Pengantar Rekayasa & Desain Ii,5
+92,Sistem Alam & Semesta,3
+93,Evolusi Perangkatlunak,NULL
+94,Topik Khusus Rekayasa Perangkat Lunak,5
+95,Pemrograman Komputer (Tm),1
+96,Rekayasa Kebutuhan Sistem Perangkat Lu,3
+97,Strategi & Kebijakan,NULL
+98,Algoritma Struktur Data,1
+99,Kualitas Perangkat Lunak,5
+100,Rekayasa Kebutuhansistem  Perangkat,NULL
+101,Secure Softwaredevelopmentlife Cycle,NULL
+102,Pengenalan Teknologi Informasi B,4
+103,Metoda & Proses Pembangunan Perangkat Lu,NULL
+104,Dasar Rekayasa Perangkat Lunak,5
+105,Sinyal Sistem,3
+106,Sistem Kendali Non Linier,3
+107,Probabilitas Statistik,2
+108,Sinyal & Sistem,3
+109,Probabilitas & Statistik,2
+110,Probabilitas Statistika,2
+111,Pengolahan Sinyal Digital,NULL
+112,Rekayasa Perangkat Teknologi Informasi,4
+113,Strategi Dan Sistem Pemerintahan,3
+114,Sistem Kendali Nonlinear,3
+115,Probabilitas Danstatistik,2
+116,,NULL
+117,Tugas Akhir Ii,NULL
+118,Tugas Akhir I & Seminar,NULL
+119,Sumber Daya Informasi Enterprise,4
+120,Pemrograman Berorientasi Objek,1
+121,Sosioteknologiinformasi,NULL
+122,Pemrograman Fungsional,1
+123,Algoritma Strukturdata,1
+124,Pemodelan Data Lanjut,4
+125,Penulisan Karya Ilmiah,NULL
+126,Topik Khusus,NULL
+127,Fundamentalintelijen Bisnis,NULL
+128,Topik Khusus Sains Komputer 2,NULL
+129,Visualisasi Data,6
+130,Komunikasi Antar Personal,NULL
+131,Rekayasasistem Kerja,NULL
+132,Pemasaran Jasa,NULL
+133,"Desianinteraksi,Visualisasi Dan Game",6
+134,Agama Dan Etika Hindu,NULL
+135,Kerja Praktek,NULL
+136,Teknologi Dan Manajemen Operasi,4
+137,Statistika Bisnis,2
+138,Anatomi Fisiologi Praktikum,NULL
+139,Inteligensi Kolektif,NULL
+140,Perancangan Sistem Interaksi,3
+141,Sistem Informasi Kesehatan,4
+142,Keamanan Informasi Lanjut,4
+143,Pengujian Perangkat Lunak,5
+144,Pengantar Kepariwisataan,NULL
+145,Analisa Kuantitatif Kualitatif,NULL
+146,Teknik Biomedika Praktikum,NULL
+147,Manajemen Teknologi,4
+148,Kepemimpinan Bisnis,NULL
+149,Metoda Penelitian,NULL
+150,Kerekayasaan Informasi,4
+151,Metode Formal,NULL
+152,Data Management,4
+153,Pengembangankeprofesian/Komunitasa,NULL
+154,Pengetahuan Dan Inovasi,7
+155,Pembelajaran Mesin,7
+156,Algoritma & Pemrograman B,1
+157,Keamanan Sistem  Perangkat Lunak,4
+158,Datawarehouse Datamining,NULL
+159,Manajemen Sistem Informasi,4
+160,Keamanan Perangkat Lunak,4
+161,Pembelajaran Mesin Lanjut,7
+162,Data Warehouse & Business Intelligence,4
+163,Pengembangan Intelijen Bisnis & Operas,NULL
+164,Representasi & Penalaran Pengetahuan,7
+165,Jaringan Multilayanan & Jaringan Multime,3
+166,Mikroelektronika Frekuensi Radio,NULL
+167,Kewirausahaan Teknologi Informasi,4
+168,Matematika Informatik,2
+169,Manajemen Resiko,4
+170,Otomata & Teori Bahasa Formal,NULL
+171,Strategi & Kebijakan Tek. Informasi,4
+172,Algoritma Kombinatorial,1
+173,Probabilitas & Statistika,2
+174,Matematika Diskrit,2
+175,Sistim Berkas Dan Basis Data,4
+176,Manajemen Resiko Sistem Informasi,4
+177,Teori Bahasa Dan Otomata,NULL
+178,Probabilitas  Statistika,2
+179,Tugas Akhir 2,NULL
+180,Tugas Akhir 1 & Seminar,NULL
+181,Metode Numerik Lanjut,NULL
+182,Teori Bahasa Formal Dan Otomata,NULL
+183,Manajemen Sumber Daya Sti,4
+184,Pemrogramanintegratif,NULL
+185,Matematika Sti,2
+186,Instrumentasi Sistem Kendali,3
+187,Rekayasa Sistem Multimedia,3
+188,Grafika Komputer,6
+189,Interpretasi & Pengolahan Citra,6
+190,Sistem Grafika Komputer,6
+191,Sistem Intelijen Terapan,3
+192,Sistem Intelijen,3
+193,Grafika Komputer Terapan,6
+194,Fundamental Inteligensi Buatan,NULL
+195,Metode Numerik,NULL
+196,Grafika Komputer Visualisasi,6
+197,Pemodelan & Simulasi,2
+198,Pemodelan Informasi,2
+199,Topik Khusus Sainskomputer Ii,NULL
+200,Sistem Rekognisi,3
+201,Kapita Selekta,NULL
+202,Pengenalan Pola,NULL
+203,Interpretasi Dan Pengolahan Citra,6
+204,Teknologi Multimedia,NULL
+205,Strategi Dan Pengembangan Ti,NULL
+206,Perencanaan Strategis Teknologi Informas,NULL
+207,Teori Manajemen & Organisasi,4
+208,Arsitektur Berbasis Layanan,3
+209,Perancangan Aplikasi Berbasislayanan,NULL
+210,Tata Kelola  Pengukurankinerja Tekno,NULL
+211,Manajemen Resiko Teknologi Informasi,4
+212,Sistem Komputasi,3
+213,Rekayasa Perangkat Lunak Untuk Domain Game,5
+214,"It Ethics,Regulation & Cyber Law",NULL
+215,Pemodelan Dan Simulasi,2
+216,Aljabar Geometri,2
+217,Teori Komputasi,NULL
+218,Organisasi Sistem Komputer,3
+219,Information Distribution,NULL
+220,Pengenalan Informatika,NULL
+221,Rekayasa Perangkat Lunak Dasar,5
+222,Jaringan Komputer Lanjut,3
+223,Electronic Business,NULL
+224,Teknologi Sistem Komputer,3
+225,E-Bisnis,NULL
+226,Keamanan Komputer,4
+227,Perawatan Perangkat Lunak,5
+228,Sistem Berbasis Komponen,3
+229,Sistem Informasi Dan E-Commerce,4
+230,Mnj. Proyek Teknologi Informasi,5
+231,Pengantar Aplikasi Komputer,NULL
+232,Metode Penelitian,NULL
+233,Pembangunan Perangkat Lunak,5
+234,Keamanan Sistem Informasi,4
+235,Praktik Audit,NULL
+236,Konsep Teknologi,NULL
+237,Komputer Grafik,6
+238,Metode Berpikirkreatif,NULL
+239,Kriptografi,2
+240,Komunikasipembangunan,NULL
+241,Analisis Perangkat Lunak,2
+242,Agama Dan Etika Islam,NULL
+243,Kewirausahaan,NULL
+244,Pengantar Bioinformatik,NULL
+245,Fotografi Dasar,NULL
+246,Rekayasa Lingkungan,NULL
+247,Manajemen Sdm,4
+248,Dasar Rangkaian Elektrik,10
+249,Kalkulus Iia,2
+250,Sosiologi Industri,NULL
+251,Tinjauan Arsitektur Dan Interior,3
+252,Berpikir Visioner,NULL
+253,Kewirausahaan & Pengembangan Enterprais,NULL
+254,Matematika Rekayasa,2
+255,Pengantar Ekonomika,NULL
+256,Penulisan Naskahiklan,NULL
+257,Algoritma Dan Pemrograman,1
+258,Metodologi Amdal,5
+259,Pemodelan Matematika,2
+260,Tipografi Dasar,NULL
+261,Organisasi Danmanajemen Perusahaanin,NULL
+262,Psikologi Persepsi,NULL
+263,Perancangan E-Bisnis,NULL
+264,Manajemen (Ii),4
+265,Manajemen Rekayasaindustri,4
+266,Portofolio,NULL
+267,Sistem Informasi Manajemenuas,4
+268,Communication And Networking,NULL
+269,Software Engineering,NULL
+270,Rekayasa Perangkat Lunak Berbasis Kompon,5
+271,0,NULL
+272,Intelligent Bisnis,NULL
+273,"Analisis, Perancangan Berorientasi Objek",NULL
+274,Rekayasa Sistem Informasi,4
+275,Jaringan Komputer Dan Komunikasi Data,3
+276,Perencanaan Strategis Sistem Informasi,4
+277,Perancangan Perangkat Lunak Si,5
+278,Analisis Perancanganberorientasi Obj,2
+279,Sistem Penunjang Keputusan Dan Sis Pakar,3
+280,Manajemen Proyek Dan Perubahan,5
+281,Manajemen Proyekperangkat Lunak,4
+282,Rekayasa Perangkat Lunak I,5
+283,Analisis Data & Bisnis,2
+284,Manajemen Rekayasaperangkat Lunak,4
+285,Keamanan Sistem & Perangkat Lunak,4
+286,Technopreneurship,NULL
+287,Rekayasa Perangkat Lunak Ii,5
+288,Perenc. Strategis Sistem Informasi,4
+289,Manajemen Kualitas Perangkat Lunak,4
+290,Sistem Informasi Manajemen,4
+291,Proyek Perangkat Lunak,5
+292,Elektronika Daya,NULL
+293,Rangkaian Elektrik,10
+294,Kendali Mesin Elektrik,7
+295,Pra Tesis,NULL
+296,Teknik Tenaga Elektrik (Msmg),NULL
+297,Dasar Pemrograman Berorientasi Obyek,1
+298,Pemrograman Web,1
+299,Pemrograman Sistem,1
+300,Pemrograman Internet,1
+301,Algoritma & Pemrograman Ia,1
+302,Algoritma & Pemrograman Ib,1
+303,Algoritma & Struktur Data,1
+304,Secure Programming,NULL
+305,Pengembanganaplikasi Berbasisweb,NULL
+306,Pengembanganaplikasi Padaplatform Kh,NULL
+307,Pengembangan Aplikasi Piranti Bergerak,1
+308,Algoritma Dan Struktur Data,1
+309,Pemodelan Enterprise,2
+310,Dasar-Dasar Pemrogramanrekayasa Hayati,NULL
+311,Dasar Teknik Elektro,NULL
+312,Pengantar Teknik Komputer,NULL
+313,Pengantar Rangkaian Elektrik,10
+314,Perencanaan Tek. & Sist. Informasi,4
+315,Sinyal Dan Sistem,3
+316,Rekayasa Trafik & Perancangan Jar. Multi,NULL
+317,Kapita Selekta Teknik Komputer,NULL
+318,Etika Profesi Dan Bisnis Bidang Komputer,8
+319,Manajemen Inovasi,4
+320,Sistem Keamanan Komputer,4
+321,Jaringan Komunikasi Dan Komputer,3
+322,Pengantar Teknik Elektro,NULL
+323,Rekayasa Traffik,NULL
+324,Penelitian Industri Digital,NULL
+325,Manajemen Sumber Daya Manusia Teknologi,4
+326,Organisasi Teknologi Informasi,4
+327,#Na,NULL
+328,Bisnis Telekomunikasi,NULL
+329,Analisa Perancangan Proses Bisnis,NULL
+330,Perencanaan Sistem & Teknologi Informasi,4
+331,Pengantar Ilmu Ekonomi,NULL
+332,Kendali Sistem Cerdas,3
+333,Manajemen Perubahan,4
+334,Nilai Resiko Teknologi Informasi,4
+335,Layanan Sistem Dan Teknologi Informasi,4
+336,Riset Inovasi Teknologi Informasi,4
+337,Jaringan Informasi & Sosial,3
+338,Perancangan Layanan Teknologi Informas,5
+339,Rekayasa Sistem Dan Teknologi Informasi,4
+340,Jaringan Informasi Dan Sosial,3
+341,Rekayasa Layanan Teknologi Informasi,5
+342,Sistem Embedded Waktu Nyata,3
+343,Arsitektur & Manajemen Tek. Informasi,4
+344,Tatakelola Dan Audit Teknologi Informasi,4
+345,Arsitektur Manajemen Teknologi Informa,3
+346,Manajemen Kinerja & Assurance Teknologi,4
+347,Tatakelola & Audit Teknologi Informasi,4
+348,Sistem Dan Manajemen Teknologi Infor,4
+349,Keprofesian Sti,8
+350,Sistem Layanan Cerdas,3
+351,Manajemen Operasional Layanan Teknolog,4
+352,Matematika Teknik Lanjut,2
+353,Perilaku Dinamis Mesin Elektrik,7
+354,Elektronika Daya Lanjut,NULL
+355,Sistem Transportasi Elektrik,3
+356,Hukum Perlindungan Anak,NULL
+357,Bahasa Indonesia Hukum,NULL
+358,Elektronika Dayalanjut,NULL
+359,Pengantar Sistem Tenaga Elektrik,3
+360,Proyek Perangkatlunak,5
+361,Praktikum Pengolahan Sinyal Digital,NULL
+362,Perencanaan Dan Manajemen Teknologi Info,4
+363,Arsitektur Sistem Komputer,3
+364,Kerja Mandiri I,NULL
+365,Praktikum Arsitektur Sistem Komputer,3
+366,Aplikasi Inteligensi Buatan,NULL
+367,Tugas Akhir I,NULL
+368,Sistem Informasi Enterprise,4
+369,Inteligensi Buatan,NULL
+370,Sistem Berbasis Pengetahuan,3
+371,Sistem Berbasispengetahuan,3
+372,Sistem Informasienterprise,3
+373,Manajemen Proyek Perangkat Lunak,5
+374,Sistem Informasi,4
+375,Manajemen Proyek Sti,5
+376,Representasipengetahuan Danpenalaran,NULL
+377,Socio-Informatika Dan Profesionalisme,8
+378,Socio-Informatikadanprofesionalisme,NULL
+379,Basis Data Non Relasional,4
+380,Manajemen Basis Data,4
+381,Strategi Algoritmik,NULL
+382,Strategi Algoritma,1
+383,Keperawatan Anak Ii,NULL
+384,Psikologi Kesehatan,NULL
+385,Topik Khusus Sainskomputer I,NULL
+386,Analisis Kebutuhan Sistem,2
+387,Pengantar Teknologi Informasi,4
+388,Pengantar Teknologi Informasi Dan Algoritma,4
+389,Multimedia Database,NULL
+390,Computer Organizations,NULL
+391,Introduction To It,NULL
+392,Object Oriented Programming,NULL
+393,Programing Concept,NULL
+394,Programming Concept,NULL
+395,Algoritma & Pemrograman A,1
+396,Sistem Temu Balik Informasi,4
+397,Logika Informatik,2
+398,Internship I,NULL
+399,Image Processing,NULL
+400,Formal Language Automata,2
+401,Sistem Informasi Multimedia,4
+402,Artificial Intelligence,7
+403,Comparative Programing Language Gui,NULL
+404,Model Simulasi,2
+405,Database Design,NULL
+406,Algorythmic Strategies,NULL
+407,Algorithmic Strategies,NULL
+408,Teknik Kompilasi,NULL
+409,Principles Introduction To Marketing,NULL
+410,It Projject Management,5
+411,Business Process Analysis,NULL
+412,Introduction To Information Technology,NULL
+413,Programming Concepts,NULL
+414,Database System,NULL
+415,Is Project Management,5
+416,Engineering Mathematics I,NULL
+417,Introduction To It Computing,NULL
+418,Thesis,NULL
+419,Product Design Development,NULL
+420,Internship Ii,NULL
+421,Pengantar Teknologi Internet,NULL
+422,Computer Aided Engineering,NULL
+423,Information Technology Project Manajemen,5
+424,Sistem Temu Balikinformasi,3
+425,Logika Informatika,2
+426,Information System Analysis Design,NULL
+427,Internet Programming,NULL
+428,E-Business,NULL
+429,Matrix And Vector,NULL
+430,Paradigma Pemrograman,1
+431,Kualitas Data,4
+432,Distributed System,NULL
+433,It Project Management,5
+434,Data Structure Algorytms,4
+435,Computer Ethics,NULL
+436,Physics Ii,NULL
+437,Distributed Systems,NULL
+438,Machine Learning,7
+439,Algoritma  Pemrograman A,1
+440,Analisa Algoritma,1
+441,Security Systems,4
+442,Computer Vision,NULL
+443,Seminar,NULL
+444,Data Mining,4
+445,Information Retrieval Systems,NULL
+446,Skripsi,NULL
+447,Information Retrieval,NULL
+448,Internship,NULL
+449,Web Design,1
+450,Computer Graphics And Animations,6
+451,Database Management System,5
+452,Intelegensia Buatan,NULL
+453,Lab Komputer Akuntansi,NULL
+454,Lab Akuntansi Keuangan Lanjutan,NULL
+455,Akuntansi Keuangan Lanjutan,NULL
+456,Laboratorium Sistem Informasi Akuntansi,4
+457,Pengantar Akuntansi 1,NULL
+458,Lab. Komputer Akuntansi,NULL
+459,Pengantar Akuntansi 2,NULL
+460,Lab Akuntansi Keuangan Menengah,NULL
+461,Simulasi Permodelan,2
+462,Komputasi Paralelsistem Waktu Nyata,NULL
+463,Sistem Nyata-Waktu & Processor Embedded,3
+464,Arsitektur Komputer Lanjut,3
+465,Metodologi Dan Orientasi Riset,5
+466,Metodologi Penelitian,5
+467,Sistem Nyata-Waktu,3
+468,Arsitektur Komputer & Desain,3
+469,Manajemen Keuangan,4
+470,Disertasi 2,NULL
+471,Arsitektur Komputer,3
+472,Keuangan Internasional *,NULL
+473,Seminar Bidang Kajian,NULL
+474,Pra Penelitian Proposal,NULL
+475,Arsitektur Sistem Komputer Ii,3
+476,Arsitektur Komputer Lanjut I,3
+477,Proses Stokastik,NULL
+478,Elektronika Digital Lanjut,NULL
+479,Komunikasi Fiber Optik,NULL
+480,Sosiologi Hukum,NULL
+481,Filsafat Ilmu Pengetahuan,7
+482,Farmakologi Dasar,NULL
+483,Fisika Sistem Hidup,3
+484,Strategic Information Planning,NULL
+485,Enterprise Information System,9
+486,Kontrol & Audit Sistem Informasi,4
+487,Proses Bisnis,NULL
+488,Perencanaan Informasi Strategik,4
+489,Rekayasa Ulang Sistem,3
+490,Rekayasa Ulangsistem,NULL
+491,Tatakelola Sistem Informasi,4
+492,Perencanaan Informasi Strategis,4
+493,Strateji & Kebijakan Sistem Informasi,4
+494,Proses Dan Pemodelan Enterprise,2
+495,Analisis Kebutuhan Informasi,2
+496,Analisis Kebutuhanenterprise,2
+497,Audit Teknologi Informasi,4
+498,Tatakelola Enterprise,9
+499,Arsitektur Enterprise,9
+500,Hukum & Etika Teknologi Informasi,4
+501,Kerekayasaan Enterprise,9
+502,Wirelessmobile Computing,NULL
+503,Bio Informatika,NULL
+504,Sistem Komputasi Nirkabel Dan Bergerak,3
+505,Kecerdasan Buatan,7
+506,Pengantar Telekomunikasi,NULL
+507,Topik Khusus I,NULL
+508,Interaksi Manusia Komputer,5
+509,Teknologi Mesin Pencari,7
+510,Interaksi Manusia & Komputer,5
+511,Pengembangankeprofesian/Komunitas B,NULL
+512,Penulisan Konferensi International I,NULL
+513,Penulisan Konferensi Nasional Ii,NULL
+514,Penulisan Journal Nasional I,NULL
+515,Ujian Disertasi,NULL
+516,Penulisan Journal International,NULL
+517,Ujian Kualifikasi,NULL
+518,Penulisan Konferensi Internasional Ii,NULL
+519,Penulisan Konferensi Nasional I,NULL
+520,Penulisan Journal Nasional Ii,NULL
+521,Penyusunan Proposal,NULL
+522,Penulisan Journal Nasional Iii,NULL
+523,Interaksi Manusia  Komputer,5
+524,Sistem Informasi Intellijen,4
+525,Algoritma & Pemrograman C,1
+526,Algoritma Pemrograman I,1
+527,Struktur Data,4
+528,Spking Skill  In News & Bsn Presentation,NULL
+529,Sistem Operasi Komputer,3
+530,Algoritma & Pemrograman,1
+531,Komunikasi Interpersonal,NULL
+532,Statistika,2
+533,Dasar Intelegensia Artifisial,NULL
+534,Inteligensia Artifisial Terdistribusi,3
+535,Sistem Cerdas Lanjut,3
+536,Pemrograman & Aplikasi Internetweb,1
+537,Kecerdasan Artifisial & Komputasional,NULL
+538,Sistem Kendali Cerdas,3
+539,Kendali Kokoh,NULL
+540,Kendali Robust,NULL
+541,Intelegensia Artifisial Terdistribusi,3
+542,Kendali Optimal,NULL
+543,Kendali Dan Sistem Cerdas,3
+544,Pemodelan Simulasi Sistem Fisiologis L,2
+545,Dasar Sistem & Kendali Cerdas,3
+546,Pemrosesan Bahasa Alami,7
+547,Perancangan Sistem Biomedika,3
+548,Sistem Informasiintellijen,3
+549,Wirausahadesain,NULL
+550,Manajemen Sumber Daya Informasi,4
+551,Branding,NULL
+552,Narasi Visual,NULL
+553,Manajemen Proyek,5
+554,Organisasi & Arsitektur Komputer,3
+555,Hukum Lingkungan,NULL
+556,Pemrosesan Text Dansuara Bahasaalami,NULL
+557,Metode Statistika,2
+558,Komputasi Matematika,2
+559,Pengkodean Informasi Dan Kompresi Data,4
+560,Sistem Dsp Vlsi,3
+561,Kompresi Data Dan Multimedia,4
+562,Perancangan Sistem Dsp,3
+563,Pengenalan Teknologi Informasi C,4
+564,Manajemen Investasiteknologiinformas,4
+565,Praktikumteknik Elektro I,NULL
+566,Metoda Komputasi Untuk Gel. Mikro & Gel.,NULL
+567,Pengolahan Sinyal Larik,NULL
+568,Medan Elektromagnetik Iib,NULL
+569,Pengolahan Citra Biomedika Lanjut,6
+570,Pengolahan Citra Dan Pengenalan Pola,6
+571,Medan Elektromagnetik,NULL
+572,Topik Khusus Sistem Komunikasi Radio,3
+573,Sistem Observasi,3
+574,Pemrosesan Sinyal,NULL
+575,Pengolahan Sinyal,NULL
+576,Teknik Elektro Informatika Lanjut I,NULL
+577,Teknik Elektro Informatika Lanjut Iii,NULL
+578,Penelitian Seminar Kemajuan Iv,NULL
+579,Penelitian Seminar Kemajuan Iii,NULL
+580,Penelitian Seminar Kemajuan I,NULL
+581,Penelitian Seminar Kemajuan Ii,NULL
+582,Teknik Elektro Informatika Lanjut Ii,NULL
+583,Teknik Elektro Dan Informatika Lanjut,NULL
+584,Sistem Pengindraan,3
+585,Perencanaan Sistem Layanan Telekomunik,3
+586,Operasi & Pemeliharaan Sistem Tegangan T,3
+587,Pengolahan Sinyal Radar,NULL
+588,Struktur Data Dan Algoritma,1
+589,Sistem Pengoperasian,3
+590,Basis Data Enterprise,4
+591,Rekayasa Sistem,3
+592,Teknologi Informatika Dan Komputer,NULL
+593,Manajemen Proyek Perangkat Lunak Lanjut,5
+594,Tata Kelola It & Manajemen Resiko,4
+595,Pengembangan Aplikasi Berbasis Web,1
+596,Jaringan Komputerlanjut,3
+597,Sistem Terdistribusi Lanjut,3
+598,Sistem Berkinerja Tinggi,3
+599,Organisasi  Arsitektur Komputer,3
+600,Pengembangan Aplikasi Media Interaktif D,1
+601,Pengantar Kecerdasan B,NULL
+602,Metode Kuantitatif,NULL
+603,Mikroprosesor,NULL
+604,Matematika Diskret,2
+605,Sensor Dan Tranduser,NULL
+606,Object Oriented Programing,NULL
+607,Matematika Komputasi,2
+608,Pemrograman Logika,1
+609,Pengantar Pemrosesan Bahasa Alami,7
+610,Tugas Akhir,NULL
+611,Matematika Dan Statistika Untuk Komputas,2
+612,Komputasi Metaheuristik Terapan,NULL
+613,Metode Klimatologi Lanjut,NULL
+614,Klimatologi Terapan Lanjut,NULL
+615,Topik Dalam Pengenalan Pola,NULL
+616,Mk 3  Kecerdasan Komputasional,NULL
+617,Teknik Optimasi Untuk Komputasi,2
+618,Kecerdasan Komputasional,NULL
+619,Matematika Dan Statistika Untuk Komputasi,2
+620,Struktur Diskret,NULL
+621,Sistem Cerdas,3
+622,Pemrosesan Suara Dan Bahasa Alami,7
+623,Pengantar Logika Matematika,2
+624,Organisasi Komputer,3
+625,Pengantar Pengolahan Citra Digital,6
+626,Sistem Pakar,3
+627,Komunikasi Data Dan Jaringan Komputer,3
+628,Pengolahan Citra Digital,6
+629,Interaksi Manusia Dan Komputer,5
+630,Analisis Algoritme,2
+631,Pengembangan Sistem Berorientasi Objek,3
+632,Algoritme,NULL
+633,Metode Penelitian Dan Telaah Pustaka,NULL
+634,Bahasa Pemrograman,1
+635,Sistem Berkas,3
+636,Teori Bahasa Otomata,NULL
+637,Penerapan Komputer,NULL
+638,Pemrosesan Pararel,NULL
+639,Manajemen Pemasaran,4
+640,Pengantar Akuntansi,NULL
+641,Decision Support System,NULL
+642,Temu Kembali Informasi,4
+643,Sistem Pendukung Keputusan,3
+644,Sistem Manajemen Basis Data,4
+645,Bioprospeksi Hutan Tropika,NULL
+646,Topik Dalam Sistem Pakar Dan Sistem Penu,3
+647,Topik Dalam Sistem Pakar Dan Sistem Penunjang Keputusan,3
+648,Pembangunan Sistem Perangkat Lunak,3
+649,Algoritme Dan Pemrograman Komputer,1
+650,Software Engennering,NULL
+651,Topik Dalam Perancangan Aplikasi Jaringa,NULL
+652,Topik Dalam Bioinformatika,NULL
+653,Kapita Selekta Ilmu Komputer,NULL
+654,Analisis Dan Desain Algoritma*,2
+655,Pengujian Dan Penjaminan Kualitas Perang,NULL
+656,Pemrosesan Paralel,3
+657,Pengujian Dan Penjaminan Mutu Perangkat Lunak,5
+658,Biomolekuler Hasil Perairan,NULL
+659,Perancangan Dan Analisis Algoritme,2
+660,Pengantar Matematika Komputasi,2
+661,Pengantar Bioinformatika,NULL
+662,Pengantar Teknologi Geospasial,NULL
+663,Kalkulus Lanjut,2
+664,Komputasi Numerik,NULL
+665,Pengembangan Sistem Beriorientasi Obyek,3
+666,Pengembangan Sistem,3
+667,Kapita Selekta Ilmu Ko,NULL
+668,Sistem Manajemen Basis Data**,4
+669,Kalkulus 1,2
+670,Perancangan Perangkat Lunak Lanjut,5
+671,Pengenalan Komputer,NULL
+672,Perangkat Lunak Aplikasi Web**,5
+673,Perancangan Perangkat Lunak**,NULL
+674,Sistem Penunjang Keputusan,3
+675,Metodologi Penelitian & Telaah Pustaka,5
+676,Sim Perencstrategis Sis.Inf/Tek.Inf*,NULL
+677,Pengelolaan Proyek Sistem Informasi,4
+678,Manajemen Operasional,4
+679,Riset Operasi,NULL
+680,Testing Implementasi Sis.&Audit Si/Ti,NULL
+681,Testing Dan Implementasi Sistem,3
+682,Etika Komputasi,NULL
+683,Algoritme Dan Pemrograman,1
+684,Pengantar Sistem Tertanam Dan Robotika,3
+685,Teknologi Komunikasi D,NULL
+686,Basisdata Terdistribusi,3
+687,Pengantar Peluang,NULL
+688,Pengantar Hitung Peluang,NULL
+689,Kolokium,NULL
+690,Rangkaian Digital,10
+691,Topik Dalam Data Mining Terapan,4
+692,Pemrograman Visual I,1
+693,Pemrograman Berbasis Objek,1
+694,Sistem Informasi Geogr,4
+695,Praktek Kerja Lapangan,NULL
+696,Telaah Puisi Indonesia,NULL
+697,Problematika Pembelajaran Bahasa Dan Sas (Na),NULL
+698,Pengantar Sistem Infor,3
+699,Problematik Sastra & Pengajarannya,NULL
+700,Teori Makroekonomi Ii,NULL
+701,Pengantar Organisasi Komputer,3
+702,Pengantar Kriptografi,2
+703,Perancangan Web,1
+704,Teknik Multimedia,NULL
+705,Teknik Riset Operasi,NULL
+706,Pemrograman Berorientasi Obyek,1
+707,Organisasi Komputer Dan Bahasa Assembly,3
+708,Manajemen Sdm Ii,4
+709,Perangkat Lunak Pengembangan Web,1
+710,Komunikasi Data Dan Jaringan,4
+711,Filsafat Ilmu,NULL
+712,Ilmu Alamiah Dasar,NULL
+713,Praktikum Qiraahibadahdan Kitabah,NULL
+714,Agama,NULL
+715,Hukum Hukum Kesehatan,NULL
+716,Patoanatomi,NULL
+717,Organisasi Dan Arsitektur Komputer,3
+718,Bahasa Inggris,NULL
+719,Sistem Informasi Strategis,4
+720,Customer Relationship Management,5
+721,Proyek Pengembangan Sistem Informasi,4
+722,Administrasi Kontrak,NULL
+723,Analisis & Desain Sistem Informasi,4
+724,Analisis Dan Desain Sistem Informasi,4
+725,Rekayasa Kebutuhan Sistem Informasi,4
+726,Etika Profesi,8
+727,Pengantar Manajemen,4
+728,Algoritma Dan Pemrograman 1,1
+729,Manajemen Proyek Ti,5
+730,Pengantar Sistem Informasi,4
+731,Pengantar Teknologi Informasi & Komunika,4
+732,Pengantar Technopreunership,NULL
+733,Agama Katholik,NULL
+734,Kewarganegaraan,NULL
+735,Ketrampilan Interpersonal,NULL
+736,Kalkulus Dan Aljabar Linier,2
+737,Sistem Fungsional Bisnis 2,3
+738,Agama Hindu,NULL
+739,Bisnis Cerdas,NULL
+740,Agama Islam,NULL
+741,Sistem Fungsional Bisnis 1,3
+742,Agama Kristen,NULL
+743,Tata Kelola Teknologi Informasi,4
+744,Bhs Inggris,NULL
+745,Bahasa Indonesia,NULL
+746,Manajemen Layanan Si/Ti,4
+747,Pengembangan Dan Implementasi Perangkat,NULL
+748,Desain Dan Manajemen Jaringan,5
+749,Tata Kelola Dan Audit Si/Ti,NULL
+750,Manajemen Kualitas Ti,4
+751,Teknik Peramalan,NULL
+752,Data Mining Dan Data Warehousing,4
+753,Strategi Dan Kebijakan,NULL
+754,Perencanaan Strategis Si/Ti,NULL
+755,Manajemen Investasi Ti,4
+756,Manajemen Proyek Lanjut,5
+757,Tata Kelola Ti,NULL
+758,Pemrograman Komputer,1
+759,Pemrograman Framework .Net,1
+760,Pemrograman Framework J2Ee,1
+761,Perancangan Dan Analisis Algoritma Ii,1
+762,Perancangan Dan Analisis Algoritma I,1
+763,Basis Data Terdistribusi,4
+764,Big Data,4
+765,Topik Dalam Audit Sistem,3
+766,Topik Dalam Sistem Informasi,4
+767,Fisika Ii,NULL
+768,Desain&Pemrograman Berorientasi Objek,NULL
+769,Christian,NULL
+770,Kalkulus I,2
+771,Tesis (Termasuk Seminar Tesis),NULL
+772,Keperawatan Anak I,NULL
+773,Electronic Commerce,NULL
+774,Struktur Data & Algoritma,1
+775,Teknologi Sistem Basis Data,4
+776,Desain Dan Analisis Algoritme,5
+777,Desain & Analisis Algoritma,1
+778,Studi Mandiri,NULL
+779,Dasar-Dasar Pemrograman,1
+780,Enterprise Application Integration,9
+781,Layanan & Aplikasi Web,5
+782,Pemrograman Deklaratif,1
+783,Penjaminan Mutu Perangkat Lunak,5
+784,Kalkulus,2
+785,Pengajaran Berbantuan Komputer,NULL
+786,Perancangan & Pemrograman Web,1
+787,Dasar-Dasar Pemrograman 2,1
+788,Administrasi Bisnis,NULL
+789,Manajemen Sumber Daya Manusia,4
+790,Matematika Dasar 1,2
+791,E-Commerce,NULL
+792,Matematika Diskret 1,2
+793,Perilaku Organisasi,NULL
+794,Manajemen,4
+795,Manajemen Layanan Ti,4
+796,Manajemen Keamanan Informasi,4
+797,Kerja Praktik,NULL
+798,Manajemen Risiko Ti,4
+799,Pengantar Keamanan Informasi,4
+800,Tkbm Arsitektur & Infrastruktur,3
+801,Matematika Diskret 2,2
+802,Struktur Data Dan Al,4
+803,Discrete Mathematics 1,NULL
+804,Mpk Bhs Inggris,NULL
+805,Matematika Dasar,2
+806,Aljabar Linier,NULL
+807,Business Intelligence,NULL
+808,Bahasa Jepang Dasar A,NULL
+809,Sistem Informasi Geografis,4
+810,Kecerdasan Buatan Lanjut,7
+811,Teknologi Komunikasi Data,4
+812,Topik Khusus Logika Komputasional,2
+813,Sistem Fuzzy Untuk Image Retrieval,3
+814,Topik Dalam Jaringan Komputer,3
+815,Perencanaan Infrastruktur Ti,NULL
+816,Computer Networks,NULL
+817,Teknologi Mobile,NULL
+818,Desain & Pemrograman Berorientasi Objek,5
+819,Komputasi Ubiquitous & Net-Sentris,NULL
+820,Pengantar Ekonomi 2,NULL
+821,Analisis Pasar Tenaga Kerja,2
+822,Komputasi Ubiquitous Net-Sentris,NULL
+823,Manajemen Perubahan & Proyek Ti,4
+824,Kewirausahaan Bisnis Perangkat Lunak,5
+825,Peng.Sist.Komputer & Sist.Operasi,NULL
+826,Struktur Dan Fungsi Biomolekul,NULL
+827,Cara-Cara Pemisahan,NULL
+828,Biokimia Lanjut,NULL
+829,Adv. Topic On Computational Intelligence,NULL
+830,Kimia Permukaan,NULL
+831,Seminar Proposal Penelitian,NULL
+832,Topik Khusus Komputasi Grid,NULL
+833,Teknologi Grid,NULL
+834,Pemrosesan Teks,NULL
+835,Penjaminan Kualitas Perangkat L:Unak,NULL
+836,Manajemen Strategis Si,4
+837,Manajemen Informasi Korporat,4
+838,Proyek Aplikasi Finansial,5
+839,Perpajakan 1,NULL
+840,Topik Dalam Pengolahan Citra,6
+841,Komputer & Masyarakat,NULL
+842,Manajemen Pengetahuan,4
+843,Matematika Diskrit Ii,2
+844,Religion (Catholic),NULL
+845,Topik Khusus Pemrosesan Bahasa Natural,NULL
+846,Discrete Math.Ii,NULL
+847,Teori Informasi,4
+848,Psikologi Politik (P),NULL
+849,Prinsip-Prinsip Sist. Informasi,4
+850,Prinsip-2 Sistem Informasi,4
+851,Topik Khusus Teknologi Perangkat Lunak,5
+852,Struktur Data Algoritma,1
+853,Tkbm Teknologi Perangkat Lunak,5
+854,Pengelolaan Data Besar,4
+855,Reaksi-Reaksi Kimia Anorganik,NULL
+856,Gelombang,NULL
+857,Pengolahan Citra,6
+858,Hukum Telematika,NULL
+859,Seni Dan Olahraga,NULL
+860,Matematika Diskrit I,2
+861,Bhs Jerman Sbg Bahasa Asing,NULL
+862,Akuntansi Keuangan Lanjutan 1,NULL
+863,Teori Bahasa Dan Automata,2
+864,Sistem Interaksi I,3
+865,Metodologi Penelitia,5
+866,Mpkt Terintegrasi,NULL
+867,Basisdata I,NULL
+868,Bahasa Belanda Dasar A,NULL
+869,Sistem Informaso Geografis,3
+870,Mekatronika,NULL
+871,Psikologi Perkembangan Manusia,NULL
+872,Linear Algebra,NULL
+873,Enterprise Resource Planning,9
+874,Teori Bahasa & Automata,2
+875,Statistika & Probabilitas,2
+876,Petroleum Biomarker,NULL
+877,Ekologi,NULL
+878,Prasyarat & Spesifikasi P. Lunak,NULL
+879,Sintesis Kimia Organik,NULL
+880,Penanganan & Pemeliharaan Mikroorganisme,NULL
+881,Proses Dan Manajemen Rekayasa Perangkat,4
+882,It Project,5
+883,Teknik Perangkat Lunak,5
+884,Database 2,NULL
+885,Struktur Data Danalgoritma,4
+886,Bahasa Isyarat Indonesia,NULL
+887,Proses Manajrekayasa Perangkat Lunak,5
+888,Manajemen Hubungan Pelanggan,4
+889,Dinamika Tim Perangkat Lunak,8
+890,Basis Data Ii,4
+891,Basis Data I,4
+892,Sistem Komunikasi Optik,3
+893,Mpk Olahraga / Seni,NULL
+894,Psikologi Belajar,NULL
+895,Material Humat (Kapita Selekta),NULL
+896,Psikologi Forensik (P),NULL
+897,Kesehatan Mental,NULL
+898,Seminar Tesis,NULL
+899,Statistik I,NULL
+900,Metodologi Penelitian Kuantitatif,5
+901,Penelitian Kualitatif,NULL
+902,Met Penelitian & Penulisan Prposal Tesis,NULL
+903,Prinsip-Prinsip Sistem Informasi,4
+904,Metode Penelitian Psikologi Lanjut,NULL
+905,Psikologi Umum Ii,NULL
+906,Manajemen Teknologi Informasi,4
+907,Bimbingan Pendidikan,NULL
+908,Metodologi Penelitian Dan Statistik I,5
+909,Matematika Statistika,2
+910,Rancang Bangun Perangkat Lunak,5
+911,Pengolahan Multimedia,NULL
+912,Fisika Dasar I,NULL
+913,Topik Dalam Pemrosesan Teks Lanjut,NULL
+914,Basisdata Ii,NULL
+915,Analisis Dan Perancangan Sistem,2
+916,Perancangan Sistem Informasi,4
+917,Prinsip-Prinsip Manajemen,4
+918,Probabilitas Terapan,2
+919,Lingkungan Daur Hidup,NULL
+920,Konfigurasi Erp,NULL
+921,Perancangan Sistem Informasi Strategis,4
+922,Metodologi Penelitian Dan Penulisan Ilmiah,5
+923,Kecerdasan Bisnis,NULL
+924,Perencanaan Sumberdaya Perusahaan,9
+925,Penjaminan Kualitas Perangkat Lunak,5
+926,Sistem-Sistem Perusahaan,9
+927,Manajemen Investasi Teknologi Informasi,4
+928,Advanced Programming,NULL
+929,Multisource Data And Inform.Fusion,4
+930,Mekanisme Keamanan U/ Information Resour,4
+931,Pengantar Sistem Digital,3
+932,Tk: Logika Komputasional,2
+933,Dasardasar Pemrograman,1
+934,Spesifikasi Dan Prasyarat Perangkat Luna,NULL
+935,Topik Lanjut Algoritma Kompresi,1
+936,Kriptografi Dan Keamanan Informasi,4
+937,Studi Mandiri Grafika Komputer,6
+938,Studi Mandiri Sistem Informasi,4
+939,Seminar Hasil Penelitian,NULL
+940,Topik Dlm Sistem Informasi Geografis,4
+941,Topik Dalam Grafika Komputer,6
+942,Topik Dalam Sistem Temu Kembali,3
+943,Studi Mandiri Bidang 1,NULL
+944,Studi Mandiri Teknik Perangkat Lunak,5
+945,Ujian Promosi,NULL
+946,Kriptografi & Keamanan Informasi,4
+947,Geometri Komputasional,2
+948,Programming Foundations,NULL
+949,Logika Komputasional,2
+950,Studi Mandiri Bidang 2,NULL
+951,Topik Dalam Robotika,7
+952,Studi Mandiri Pengolahan Citra,6
+953,Teori Komputasi Lanjut,NULL
+954,Dasar-Dasar Pemrograman 1,1
+955,Penambangan Data Kecerdasan Bisnis,4
+956,Penambangan Data,4
+957,Data Science & Analytics,4
+958,Penambangan Data & Inteligensia Bisnis,4
+959,Pemelajaran Mesin Lanjut,7
+960,Informatika Biomedis Lanjut,NULL
+961,Pemelajaran Mesin,7
+962,Desain Dan Analisisi Algoritma,5
+963,Pengantar Pengkajian Sinema,NULL
+964,Topik Dalam Kecerdasan Buatan (Soft Comp,7
+965,Topik Dalam Soft Computing,NULL
+966,Machine Learning (Syarat: Sistem Cerdas),3
+967,Genetic Algorithm Untuk Image Retrieval,NULL
+968,Soft Computing (Syarat: Sistem Cerdas),3
+969,Pencitraan Biomedis,NULL
+970,Studi Mandiri Soft Computing,NULL
+971,Mpk Bahasa Inggris,NULL
+972,Introduction To Digital System,NULL
+973,Topik Dlm Machine Learning,7
+974,Proyek Mahasiswa/Student Project,5
+975,Embedded Systems,NULL
+976,Manajemen Rekayasa Perangkat Lunak,5
+977,Standar Dan Regulasi Alat Medis,NULL
+978,Topik Dalam Sistem Basis Data,4
+979,Topik Dalam Jaringan Syaraf Tiruan,3
+980,Matematika Terapan Dan Biostatistik,2
+981,Calculus,NULL
+982,Komputasi Lunak,NULL
+983,Psikologi Perempuan & Gender (P),NULL
+984,Mpk Agama Kristen Protestan,NULL
+985,Statistika Probabilitas,2
+986,Matematika Dasar 2,2
+987,Mpk Seniolahraga,NULL
+988,Pengetahuan Peralatan  (T),7
+989,Pengetahuan Peralatan  (P),7
+990,Kewirausahaan  (T),NULL
+991,Kewirausahaan  (P),NULL
+992,Komunikasi Bisnis Dan Teknis,NULL
+993,Ebusiness,NULL
+994,Dasar-Dasar Audit Si,NULL
+995,Bisnis Elektronis,NULL
+996,Topik Khusus - Solusi Perusahaan,9
+997,Bioorganik,NULL
+998,Biokimia & Biologi Molekuler,NULL
+999,Rekayasa Genetika,NULL
+1000,Stereokimia,NULL
+1001,Topik Dalam Keamanan Informasi,4
+1002,Rancangan Sistem Digital,3
+1003,Studi Mandiri Arsitektur Komputer,3
+1004,Intelligent System,7
+1005,Desain Dan Analisis Algoritma,1
+1006,Penulisan Ilmiah,NULL
+1007,Psikologi & Media (P),NULL
+1008,Topik Dalam Teknik Perangkat Lunak,5
+1009,Rancangan Sistem Dijital,3
+1010,Mpk Agama Islam,NULL
+1011,Pengantar Sistem Dijital,3
+1012,Supply Chain Management,5
+1013,Sistem Interaksi,3
+1014,Perdagangan Elektronis,NULL
+1015,E-Dagang,NULL
+1016,Integrasi Aplikasi Perusahaan,9
+1017,Mitologi Junani Dan Romawi,NULL
+1018,Bahasa Jepang Sumber,NULL
+1019,Automata And Language Theory,2
+1020,Fotografi,NULL
+1021,Web Design And Programming,1
+1022,Genetika Terapan,NULL
+1023,Komputer Masyarakat,NULL
+1024,Teori Bahasa Automata,2
+1025,Metodologi Penelitian Penulisan Ilmiah,5
+1026,Metodologi Penelitian & Penulisan Ilmiah,5
+1027,Protein Engineering,NULL
+1028,"Operating Systems (Windows, Linux)",NULL
+1029,Sistesis Kimia Organik,NULL
+1030,"Operating System (Windows, Linux)",NULL
+1031,Platform Technologies (Os),1
+1032,Operating Systems,NULL
+1033,Operating System,NULL
+1034,Tesis Magister,NULL
+1035,Infrastruktur Ti Modern,NULL
+1036,Seni/Olahraga,NULL
+1037,Introduction To Information System,NULL
+1038,Interfacing System Iv,NULL
+1039,Interfacing System Iii,NULL
+1040,Seminar Usulan Penelitian,NULL
+1041,Mobile Computing Ii,NULL
+1042,Mobile Computing I,NULL
+1043,E-Government In Action,NULL
+1044,Infrastruktur Ti,NULL
+1045,Peng. Konsep Pemrog. & Struk. Data,4
+1046,Perencanaan Infrastruktur Tek. Informasi,4
+1047,Matematika Diskret I,2
+1048,Teori Coding & Aplikasi,NULL
+1049,Koperasi,NULL
+1050,Game Development,6
+1051,Pengantar Arkeologi,NULL
+1052,Aproksimasi & Sistem Nonlinier,3
+1053,Topik Dalam Komputasi Numerik,NULL
+1054,Analisis Numerik,2
+1055,Optimisasi Algoritma,1
+1056,Mekanika Kuantum,NULL
+1057,Sejarah Uni Eropa,NULL
+1058,Topik Dlm Komputasi Matrik,NULL
+1059,Statistics,NULL
+1060,Antropologi Budaya,NULL
+1061,Penulisan Disertasi & Ujian Promosi,NULL
+1062,Scientific Computing,NULL
+1063,Proyek Akhir,5
+1064,Komputasi Ilmiah,NULL
+1065,Statistika Terapan,2
+1066,Makro Ekonomi I,NULL
+1067,Persamaan Differential,NULL
+1068,Komputer Dan Masyarakat,NULL
+1069,Topik Dlm Pengolahan Citra,6
+1070,Manajemen Sistem Informasi Korporat,4
+1071,Persamaan Diferensial,NULL
+1072,Studi Mandiri Information Retrieval,NULL
+1073,Simulasi & Pemodelan,2
+1074,Manajemen Rantai Suplai,4
+1075,Metodologi Formal Pemograman,5
+1076,Bahasa Korea Dasar A,NULL
+1077,Topik Khusus Robotika,7
+1078,Rekayasa Klinik,NULL
+1079,Sensor Biomedis,NULL
+1080,Teknologi Klinis,NULL
+1081,Penapisan Teknologi Klinis,NULL
+1082,Sist Manaj Basis Data,4
+1083,Kerja Praktik & Seminar,NULL
+1084,Keselamatan Teknologi Klinis,NULL
+1085,Robotika,7
+1086,Business Communication,NULL
+1087,Sistem Tertanam,3
+1088,Teknik Pulsa,NULL
+1089,Rancangan Sistem Dijital Lanjut,3
+1090,Publikasi Ilmiah,NULL
+1091,Robot Medis,NULL
+1092,Pengolahan Sinyal Dijital,NULL
+1093,Tk: Basis Data,4
+1094,Database Ii,NULL
+1095,Manajemen Risiko,4
+1096,E-Business & Erp,NULL
+1097,Penambangan Data & Kecerdasan Bisnis,4
+1098,Topik Dalam Basis Data,4
+1099,Egovernment,NULL
+1100,Perancangan & Analisis Sistem Informasi,4
+1101,Pemerintahan Elektronis,NULL
+1102,Tata Kelola Ti Lanjut,NULL
+1103,Perdagangan Elektronik,NULL
+1104,Lab Akuntasi Keuangan Lanjutan,NULL
+1105,Mpk Agama Hindu,NULL
+1106,Mitologi Yunani,NULL
+1107,Database 1,NULL
+1108,Logic Programming,NULL
+1109,Basis Data Lanjut,4
+1110,Pengantar Ekonomi 1,NULL
+1111,Manajemen Perubahan Proyek Ti,4
+1112,Parallel Numerical Algo & Application,NULL
+1113,Proyek Pengembangan E-Commerce,5
+1114,Metode Ekstraksi Informasi U/ Bhs Ind,4
+1115,Riset Metodologi Dlm E-Learning,5
+1116,Topik Khusus Implementasi Jaringan Komp.,3
+1117,Proyek Pengembangan Rekayasa Perangkat L,5
+1118,Topik Dalam E-Learning,NULL
+1119,Text Processing,NULL
+1120,Topik Dalam Pemrosesan Teks,NULL
+1121,Grid Untuk Digital Library,NULL
+1122,Studi Mandiri E-Learning,NULL
+1123,Manajemen Informasi Multimedia,4
+1124,Topik Dlm Jaringan Saraf Tiruan (Jst),3
+1125,"Integrasi, Strategi Dan Kebijakan Sistem",3
+1126,Topik Dalam Komputasi Paralel,3
+1127,Metodologi Penelitian Dan Statistik,5
+1128,Studi Mandiri Robotika,7
+1129,Sistem Informasi Lanjut,4
+1130,Karya Akhir,NULL
+1131,Business Data Engineering,4
+1132,Network Security And Technology,3
+1133,E-Business Project,5
+1134,Analisis Kebutuhan & Perancangan Si,2
+1135,Analisis Dan Perancangan Sistem Informasi,4
+1136,Pengantar Basis Data,4
+1137,Intro To Digital System,NULL
+1138,Strategi Kebijakan Sistem Informasi,4
+1139,Perancangan Dan Pemr,NULL
+1140,Pengembangan & Pemasaran Produk,NULL
+1141,Bisnis Intelejen,NULL
+1142,Dasar-Dasar Fermentasi,NULL
+1143,Jejaring Semantik,NULL
+1144,Perancangan Pemrograman Web,1
+1145,Jejaring Web,1
+1146,Teknologi Basis Data Lanjut,4
+1147,Sistem Info.Basisdata Berorientasi Objek,3
+1148,Metodologi Penelitian & Statistik,5
+1149,Adv. Numerical Method For Differential,NULL
+1150,Pengkajian Tematis Film,NULL
+1151,Perancangan Organisasi,NULL
+1152,Bioteknologi,NULL
+1153,Mpk Terintegrasi 2,NULL
+1154,Wicara Di Depan Umum,NULL
+1155,Koperasi & Keuangan Mikro,NULL
+1156,Mpk Terintegrasi B,NULL
+1157,Mpkt B,NULL
+1158,English,NULL
+1159,Psikologi Lingkungan (P),NULL
+1160,Ekonomika Dan Pembangunan Sosial,8
+1161,Basis Data 1,4
+1162,Open Source Software,NULL
+1163,Jaringan Komunikasi Data,3
+1164,Pemrosesan Bahasa Alami Untuk Sistem Qa,7
+1165,Perolehan Informasi,4
+1166,Perolehan Informasi Lanjut,4
+1167,Cai Lanjut,NULL
+1168,Aljabar I,NULL
+1169,Aljabar Linier Ii,NULL
+1170,Teori Graph,NULL
+1171,Komputer,NULL
+1172,Kalkulus Ii,2
+1173,Aljabar Ii,NULL
+1174,Spektroskopi,NULL
+1175,Pengantar Matematika,2
+1176,Biomaterial,NULL
+1177,Topik Khusus: Jaringan Saraf Tiruan (Jst,3
+1178,Biomedical Informatics Lanjut,NULL
+1179,Studi Mandiri Pengembangan Data,4
+1180,Aplikasi Pulse Coupled Nn Pada Peng. Cit,NULL
+1181,Sist Infor Kes,NULL
+1182,Proses & Manaj.Rekayasa P. Lunak,NULL
+1183,Pengolahan Bahasa Manusia,NULL
+1184,Proposal Tesis,NULL
+1185,Komputasi Tersebar,NULL
+1186,Topik Dlm Komp.Num.Pers.Diff.Ordiner,NULL
+1187,Teknik Kompilator,NULL
+1188,Topik Dlm Komputasi Grid&Kinerja Tinggi,NULL
+1189,Pemrograman Konkuren & Paralel,1
+1190,Pemrograman Parallel,1
+1191,Komputasi Paralel Lanjut,3
+1192,Administrasi Sistem,3
+1193,Dasar-Dasar Arsitektur Komputer,3
+1194,Sistem Informasi Akuntansi Dan Keuangan,4
+1195,"Integrasi Enterprise, Fungsi Dan Teknolo",NULL
+1196,Pengelolaan Informasi Strategis,4
+1197,Pengelolaan E-Commerce,NULL
+1198,Pengelolaan Pengembangan Sis Informasi,4
+1199,Proyek Ti Dan Manajemen Perubahan,5
+1200,Soft Comp,NULL
+1201,Integrasi Teknologi Informasi Perusahaan,4
+1202,Analisis Dan Perancangan Sistem Berorien,2
+1203,Studi Mandiri Komputasi Lunak,NULL
+1204,E-Government,NULL
+1205,Topik Dalam Verifikasi Perangkat Lunak,5
+1206,Studi Mandiri Parallel Komputing,NULL
+1207,Manajemen Pengetahuan Lanjut,4
+1208,Penulisan Disert Ujian Pra Promosi,NULL
+1209,Pemerintahan Cerdas,NULL
+1210,Kimia Inti Radiasi,NULL
+1211,Steroid,NULL
+1212,Kromatografi,NULL
+1213,Instumentasi Biomedis,NULL
+1214,Jar Syaraf Tiruan & Alg Genetik,NULL
+1215,Interaksi Komputer Dan Manusia,5
+1216,Bahasa Inggris Hukum,NULL
+1217,Hukum Kewarisan Islam,NULL
+1218,Ilmu Budaya Dasar,NULL
+1219,Topik Dlm Verifinasi Per. Lunak,NULL
+1220,Manajemen Sistem Informasi Perusahaan,4
+1221,E-Commerce Lanjut,NULL
+1222,It Dalam Pemilu,NULL
+1223,Pemrog.Lanjut Berorientasi Objek,NULL
+1224,Pemrograman Aplikasi Basis Data,4
+1225,Logika Dan Algoritma + Lab.,2
+1226,Studi Kelayakan Bisnis,NULL
+1227,Lab. Pemrograman Aplikasi,1
+1228,Pemrograman Cobol,1
+1229,Pendidikan Agama,NULL
+1230,Tk: Knowledge Management,5
+1231,Academic English,NULL
+1232,Knowledge Management,5
+1233,Bahasa Cina Dasar A,NULL
+1234,Antropobiologi,NULL
+1235,Topics On Neural Network,3
+1236,Penelitian/Tesis Ii,NULL
+1237,Kimia Analisa Lanjut,NULL
+1238,Penelitiantesis Ii,NULL
+1239,Semantic Web,1
+1240,"Filsafat Ilmu, Metodologi & Etika",5
+1241,Pemrosesan Dan Analisis Sinyal Biomedis,2
+1242,Pengolahan Citra Lanjut,6
+1243,Analisis Data Spasial Lanjut,2
+1244,Analitika Media Sosial & Digital,8
+1245,Analitika Media Sosial,8
+1246,Akuakultura,NULL
+1247,Pengantar Ilmu Hukum,NULL
+1248,Analisis Termal,2
+1249,Interaksi Peer To Peer,5
+1250,Mpk Agama Budha,NULL
+1251,Psikologi Sosial,8
+1252,Sistem & Arsitektur Enterprise Lanjut,3
+1253,Desain & Analisa Algoritma,5
+1254,Topik Dlm Anal.Citra & Visi Komputer,NULL
+1255,Manajemen Investasi Dan Portofolio,4
+1256,Inst Depositori Dan Pasar Modal,NULL
+1257,Keuangan Internasional,NULL
+1258,Topik Dalam Sistem Temu Kembali Informasi,4
+1259,Topik Dalam Pemrosesan Citra Dan Visi Komputer,6
+1260,Topik Dalam Kecerdasan Komputasional,NULL
+1261,Visi Komputer,NULL
+1262,Topik Dalam Sistem Temu Kembali Informas,3
+1263,Perancangan Dan Analisis Algoritma Lanju,1
+1264,Topik Khusus Komputasi Cerdas Dan Visualisasi,6
+1265,Topik Khusus Komputasi Cerdas Dan Visual,NULL
+1266,Sistem Temu Kembali Informasi,4
+1267,"Seminar 3 (Kcv,Ncc,Rpl)",NULL
+1268,Topik Dalam Visi Komputer,NULL
+1269,Seminar 2,NULL
+1270,Disertasi - Riset 1,NULL
+1271,Seminar 1,NULL
+1272,Topik Dalam Data Mining,4
+1273,Sistem Mikroprosesor,3
+1274,Teknik Digital,NULL
+1275,Instrumentasi Elektronis,NULL
+1276,Sistem Berbasis Mikroprosesor,3
+1277,Praktmikroprosesor,NULL
+1278,Prakt. Mikroprosesor,NULL
+1279,Praktteknik Digital,NULL
+1280,Perancangan Sistem Digital,3
+1281,Praktperancangan Sistem Digital,3
+1282,Pengukuran Dan Instrumentasi,NULL
+1283,Sistem Berdasar Mikroprosesor,3
+1284,Praktmikroprosesor Dan Komputer,NULL
+1285,Embedded System,NULL
+1286,Sistem Berbasis Microcontroler,3
+1287,Mikroprosesor Dan Mikrokontroler,NULL
+1288,Mikro Elektronika Rf,NULL
+1289,Prakt. Mikroprosesor Dan Komputer,NULL
+1290,Prakt. Teknik Digital,NULL
+1291,Komunikasi Digital,NULL
+1292,Sistem Berbasis Mikrokontroler,3
+1293,Teknik Antarmuka,NULL
+1294,Tapis Elektronik,NULL
+1295,Praktikum Mikrokomputer I,NULL
+1296,Praktikum Elektronika Iv,NULL
+1297,Praktikum Plc,NULL
+1298,Plc,NULL
+1299,Mikrokomputer I,NULL
+1300,Praktikum Mikrokontroler,NULL
+1301,Mikrokontroler,NULL
+1302,Sistem Kontrol Digital,3
+1303,Mekanika B,NULL
+1304,Elektronika Lanjut I,NULL
+1305,Assembler,NULL
+1306,Sistem Digital I,3
+1307,Metodekomputasi,NULL
+1308,Praktikum Assembler,NULL
+1309,Praktikum Antarmuka,NULL
+1310,Sistem Operasi Unix Windows,3
+1311,Praktikum Motor-Motor Listrik,NULL
+1312,Multimedia,NULL
+1313,Praktikum Elektronika I,NULL
+1314,Antarmuka,NULL
+1315,Sensor Transduser,NULL
+1316,Elektronika Iv,NULL
+1317,Mikrokomputer,NULL
+1318,Praktikum Tapis Elektronik,NULL
+1319,Bengkel Elins,NULL
+1320,Kl Sistem Utilitas,3
+1321,Ekspmikrokomputer I,NULL
+1322,Matematika Elektronika Ii,2
+1323,Ekspembeded System I,NULL
+1324,Eksp. Sistem Digital I,3
+1325,Praktikum Instrumentasi Industri,NULL
+1326,Prakpemrograman Sistem,3
+1327,Matematika Elektronika I,2
+1328,Kontrol Digital,NULL
+1329,Sistem Samar/Fuzzy,3
+1330,Fismat Ii,NULL
+1331,Pemrosesan Sinyal Digital Ii,NULL
+1332,Pengantar Multimedia,NULL
+1333,Pemrossinydigi,NULL
+1334,Pemrosesan Sinyal Digital,NULL
+1335,Prakt.Paleomagnetisme,NULL
+1336,Prakantar Muka,NULL
+1337,Eksppsd I,NULL
+1338,Praktikum Sinyal Digital,NULL
+1339,Eksppsd Ii,NULL
+1340,Eksp.Prgjaringan Priranti Bergerak,NULL
+1341,Eksp. Psd Ii,NULL
+1342,Kewirausahaan Manajemen,4
+1343,Eksprobotika,NULL
+1344,Mikrokontroller,NULL
+1345,Ekspkontrol Digital,NULL
+1346,Real Time Systems,NULL
+1347,Mikrokomputer Antar Muka,NULL
+1348,Interoperabilitas,NULL
+1349,Wavelet Terapan,NULL
+1350,Kuliah Kerja Nyata,NULL
+1351,Sains Manajemen,4
+1352,Praktikum Untai Listrik,NULL
+1353,Praktpengenalan Komputer,NULL
+1354,Tugas Kekaryaan,NULL
+1355,Untai Listrik,NULL
+1356,Ekspembedded System,NULL
+1357,Hmi Scada Dan Dcs,NULL
+1358,Praktikum Instrumentasi,NULL
+1359,Teknologi Web Lanjut,1
+1360,Arsitektur Dan Organisasi Komputer,3
+1361,Augmented Reality,NULL
+1362,Signal Processing,NULL
+1363,Analisis Data,2
+1364,Matematika Dasar Ii,2
+1365,Tugas Akhir Elektronika,NULL
+1366,Sistem Op.Unix Win,3
+1367,Kerja Praktek Industri,NULL
+1368,Eksp.Mikrokontroler,NULL
+1369,Pemrossinyal Digital 1,NULL
+1370,Elektronika Digital,NULL
+1371,Prakelektronika Digital,NULL
+1372,Manajemen Proyek Tek.Inf,5
+1373,Simulasi Elektronik,2
+1374,Jaringan Tcp/Ip,3
+1375,Fisika Dasar Ii,NULL
+1376,Prak.Prog Terstruktur,NULL
+1377,Praktikum Komputasi Fisika,NULL
+1378,Telematika,NULL
+1379,Seminar Elektronika Dan Instrumentasi,NULL
+1380,Praktikum Pengantar Teknologi Informasi,4
+1381,Kewirausahaan Manaj,NULL
+1382,Pendidikan Kewarganegaraan,NULL
+1383,Praktikum Sistem Kendali,3
+1384,Tek.Informasi Kontenporer,NULL
+1385,Instrumentasi Industri,NULL
+1386,Eksp.Pemrosesan Sinyal Digital I,NULL
+1387,Instrumentasi,NULL
+1388,Komputabilitas Dan Kompleksitas,1
+1389,Embedded System O.S,NULL
+1390,Pemrosesan Sinyal Digital I,NULL
+1391,Teknologi Informasi Kontemporer,4
+1392,Workshop Elektronika Inst,NULL
+1393,Tekninformasi Kontemporer,NULL
+1394,Metode Penulisan Karya Ilmiah,NULL
+1395,Multitier Sistem,3
+1396,Pengteknologi Informasi,4
+1397,Lan Dalan Praktek,NULL
+1398,Grafika Interaktif Animasi,6
+1399,Perancangan Antar Muka Pengguna,NULL
+1400,Instrumentasi Medis *,NULL
+1401,Citra Digitalikom,6
+1402,Algoritma & Pemrograman 1,1
+1403,Informasi Dan Sistem Multi-Media,4
+1404,Instrumentasi Biomedik,NULL
+1405,Model Dan Sistem Informasi,4
+1406,Instrumentasi I,NULL
+1407,Ekspinstrumentasi,NULL
+1408,Metopengukuran,NULL
+1409,Lan Dalam Praktek,NULL
+1410,Penginstr.Ind,NULL
+1411,Analisis Dampak Pembangunan,2
+1412,Grafik Komputer,6
+1413,Sistem Pengukuran Fisis,3
+1414,Simulasi Dalam Fisika  *,2
+1415,Fiture Base Image Prpcessing,NULL
+1416,Group Decision Support System,NULL
+1417,Pengsistem Kontrol,NULL
+1418,Desain Antar Muka,5
+1419,Peng.Tekinformasi,NULL
+1420,User Interface Design,NULL
+1421,Feature Based Image Processing,NULL
+1422,Grafika Interaktif Dan Animasi,6
+1423,Pattern Recognition,NULL
+1424,Kerja Pratek Industri,NULL
+1425,Tukus Khusus Fisika,NULL
+1426,Sistem Paralel,3
+1427,Tugas Akhir Instrumentasi,NULL
+1428,Ekspfis.Dasi,NULL
+1429,Quantitative Seismology,NULL
+1430,Teknologi Informasi,4
+1431,Image Understanding,NULL
+1432,Pemrosesan Signal Digital,NULL
+1433,Sensor Network,3
+1434,Ekspelektronika Lanjut I,NULL
+1435,Texture Kayu,NULL
+1436,Ontology And Spatial Indexing,NULL
+1437,Komputasi Fraktal,NULL
+1438,Testing Implementasi Sistem,3
+1439,Metode Penelitian Penulisan Ilmiah,NULL
+1440,Computer Vision System,NULL
+1441,Tugas Khusus Ii,NULL
+1442,Pemodelan Citra Digital,6
+1443,Model Dan Sistem Informasi Lanjut,4
+1444,Disertasi,NULL
+1445,Tugas Akhirsistem Komputer,NULL
+1446,Pancasila,NULL
+1447,Praktikum Sistem Terdistribusi,3
+1448,Eksprogram Terstruktur I,NULL
+1449,Ekspinstrumentasi Ii,NULL
+1450,Pemrosesan Data Spasial,4
+1451,Countent Based Image Retrieval,NULL
+1452,Natural Language Precessing,NULL
+1453,Testing & Implementasi Sistem,3
+1454,Advanted Computer Graphics,6
+1455,Feature Based Ip,NULL
+1456,Praktikum Sistem Kontrol Digital,3
+1457,Prakassembler,NULL
+1458,Elektronika Iii,NULL
+1459,Prakjaringan Tcp/Ip,NULL
+1460,Praksimulasi Elektronik,NULL
+1461,Kerja Labore,NULL
+1462,Prak.Elektronika I,NULL
+1463,Motor-Motor Listrik,NULL
+1464,Metode Pengukuran,NULL
+1465,Mobile Networking,NULL
+1466,Video Image Processing,NULL
+1467,Prakteknologi Informasi Kontemporer,4
+1468,Met.Penelitian Elektronika Dan Instrumei,NULL
+1469,Sistem Pendukung Pengambilan Keputusan,3
+1470,Content Based Image Processing,NULL
+1471,Speech Recognition,7
+1472,Peng.Elektronika Inst,NULL
+1473,Sistem Pendukung Keputusan Untuk Organisasi Kesehatan,3
+1474,Sistem Penglihat Komputer,3
+1475,Kerja Lab.Edp I,NULL
+1476,Kerja Labpemrogvisual Basic,NULL
+1477,Konsep Bahasa Pemrograman,1
+1478,Prakprogram Terstruktur,NULL
+1479,Kerja Labpemrogdelphi,NULL
+1480,Praktikum Pemrograman Terstruktur,1
+1481,Praktikum Komputasi Numerik,NULL
+1482,Praktikum Struktur Data,4
+1483,Praktikum Basis Data,4
+1484,Matematika,2
+1485,Praktmetode Numerik,NULL
+1486,Dasar-Dasar Akuntansi,NULL
+1487,Pemrograman Non Prosedural,1
+1488,Praktikum Rpl,5
+1489,Metodologi Penelitian Ilkomp,5
+1490,Basis Data 2,4
+1491,Prak.Basis Data,4
+1492,Prakstruktur Data,4
+1493,Biostatistik,NULL
+1494,Aljabar Vektor Dan Matriks,NULL
+1495,Praktprogram Terstruktur I,NULL
+1496,Analisis Dan Desain Sistem,2
+1497,Praktimum Pemrograman Web 1,1
+1498,Praktikum Sistem Operasi (Linux),3
+1499,Kl Pemrograman Web Ii (Javamobile,1
+1500,Praktikum Pemrograman Terstruktur 1,1
+1501,Kl.Jaringan,NULL
+1502,Klpemrograman Visual I,NULL
+1503,Klpemrograman Bahasa C+,NULL
+1504,Praktikum Basisdata,NULL
+1505,Basisdata,NULL
+1506,Praktek Lapangan Iv,NULL
+1507,Statistik Pelayanan Kesehatan,NULL
+1508,Kerja Lab Edp,NULL
+1509,Praksistem Operasi,NULL
+1510,Prakrekayasa Perangkat Lunak,5
+1511,Kapita Selekta Komputasi,NULL
+1512,Pendidikan Pancasila,NULL
+1513,Praktikum Algoritma Dan Struktur Data I,1
+1514,Kapita Selekta Algoritma Genetika,1
+1515,Praktalgoritma Dan Pemrograman,1
+1516,Praktarsi,NULL
+1517,Logika Fuzzy,2
+1518,Algoritma Genetika,1
+1519,Sistem Dan Pengelolaan Komputer,3
+1520,Kl Pemrograman Visual Ii,1
+1521,Analis Dan Rancangan Si,NULL
+1522,Prakberkas Dan Basis Data,4
+1523,Berkas Dan Basis Data,4
+1524,Praktek Lapangan V,NULL
+1525,Bioinformatika,NULL
+1526,Matematika Diskrit (Prodi :Kom),2
+1527,Praktikum Arsi,NULL
+1528,Kerja Lab Pelaporan-Penyajian Data,4
+1529,Kl Pengelolaan Instalasi Komputer,NULL
+1530,Kl Grafika Komputer,6
+1531,Etika Profesi Bisnis,8
+1532,Data Minning,4
+1533,Computational Intelligence,NULL
+1534,Etika Profesi Dan Bisnis,8
+1535,Kerja Labedp I,NULL
+1536,Pemrograman Terstruktur,1
+1537,Kerja Labedp Ii (Basis Data,4
+1538,Prakpemrogrberorientasi Obyek,NULL
+1539,Kerja Labpemrograman Web Ii,1
+1540,Pemrograman Visual,1
+1541,Prakt. Metode Numerik,NULL
+1542,Jaringan Syaraf Tiruan,3
+1543,Kspengantar Robotika,7
+1544,Praktikum Algoritma & Pemrograman,1
+1545,Matematika Informatika,2
+1546,Prakpengteknologi Informasi,4
+1547,Prakjaringan Komputer,NULL
+1548,Pengantar Manajemen Proyek,5
+1549,Pemrograman Terstruktur I,1
+1550,Pemrograman Terstruktur 2,1
+1551,Program Terstruktur 1,1
+1552,Prakpemrograman Berorientasi-Object,NULL
+1553,Praktikum Statistika,2
+1554,Pemrograman Web 1,1
+1555,Praktpengantar Multimedia,NULL
+1556,Matematika I,2
+1557,Prakalgoritma Dan Struktur Data Ii,4
+1558,Algoritma Dan Struktur Data Ii,1
+1559,Algoritma Dan Struktur Data I,1
+1560,Kl Jaringan Komputer 2,3
+1561,Praktikum Desain Elementer,5
+1562,Pendidikan Agama Budha,NULL
+1563,Proyek Multimedia Dan Teknologi Game,5
+1564,Praktikum Pengantar Sistem Informasi Ter,4
+1565,Praktikum Rekayasa Perangkat Lunak,5
+1566,Matematika Diskrit 1,2
+1567,Klpemrogaplikasi Perangkat Bergerak,NULL
+1568,Pendidikan Agama Katolik,NULL
+1569,Pendidikan Agama Kristen,NULL
+1570,Praktikum Algoritma Dan Struktur Data 2,1
+1571,Animasi Dan Grafik Tiga Dimensi,6
+1572,Prakanimasi Dan Grafik Tiga Dimensi,6
+1573,Kl Pemrograman Web I,1
+1574,Praktikum Pengantar Kecerdasan Bisnis,NULL
+1575,Kl Pemrograman Game,1
+1576,Metode Numeris,NULL
+1577,Karya Tulis Ilmiah,NULL
+1578,Prakbasis Data,4
+1579,Analisis Algoritma,1
+1580,Analisis Dan Desain Algoritma I,1
+1581,Manajemen Proyek Informatika,5
+1582,Kerja Labaplikasi Cad/Camp,NULL
+1583,Kerja Labpelaporan Penyajian Data,4
+1584,Perancangan Sistem Berorientasi Obyek,3
+1585,Kerja Labpemrograman Web I,1
+1586,Uji Kualitas Perangkat Lunak,5
+1587,Pengantar Algoritma,1
+1588,Tugas Akhir/Skripsi,NULL
+1589,Virtual Reality,NULL
+1590,Artificial Intelligent,NULL
+1591,Teknologi E-Learning,NULL
+1592,Cognitive Computing,NULL
+1593,Intelligent Agent,NULL
+1594,Multi Agent System,NULL
+1595,Mobile Computing,NULL
+1596,Manajemen Aset,4
+1597,Metode Optimasi,2
+1598,Cloud Computing,3
+1599,Metod.Pen.Ilmu Komp,NULL
+1600,Information Technology Project Managemen,5
+1601,Bisnis Inteligen,7
+1602,Teknologi Informasi Dan Komunikasi Pt,4
+1603,Perancangan Multimedia,NULL
+1604,Pemrograman Dasar,1
+1605,Komputer Grafis,NULL
+1606,Analisis Dan Perancangan Sistem Informas,2
+1607,Keamanan Jaringan,4
+1608,Pemrograman Jaringan Dan Web,1
+1609,Teknik Komputer Interaktif,NULL
+1610,Praktpemrograman Dasar,NULL
+1611,Prakt. Pemrograman Dasar,1
+1612,Sitem Informasi,4
+1613,Azas-Azas Ti Dan Ti Masa Depan,NULL
+1614,Sistem Peripheral,3
+1615,Piranti Elektronik,NULL
+1616,Praktikumsistem Peripheral,NULL
+1617,Kerja Lab Bahasa C+,NULL
+1618,Motor-Motor Khusus,NULL
+1619,"Kerja Labsistem Operasi (Unix,Nt",NULL
+1620,Mikrokomputer Ii,NULL
+1621,Sisoprapemrogkomp,NULL
+1622,Analisa Dan Rancangan Sistem Informasi,4
+1623,Eksp.Mikrokomputer Ii,NULL
+1624,Arsi,NULL
+1625,Komputasi Fisika,NULL
+1626,Prakmotor-Motor Listrik,NULL
+1627,Praktikum Mikrokomputer,NULL
+1628,Ekspmotor Khusus,NULL
+1629,Pr. Basis Data,4
+1630,Sistem Waktu Nyata,3
+1631,Ekspmekatronika,NULL
+1632,Pemrogrberorientasi-Object,NULL
+1633,Elektronika Ii,NULL
+1634,Ekspelektronika Ii,NULL
+1635,Information And Assurance Scurity,NULL
+1636,Information Assurance Security,4
+1637,Praktikum Elektronika Ii,NULL
+1638,Bahasa Pemrograman I,1
+1639,Praksensor Dan Transduser,NULL
+1640,Pendidikan Agama Islam,NULL
+1641,Prak.Sensor Transduser,NULL
+1642,Praktikum Elektronika Iii,NULL
+1643,Prak Mikrokomputer Ii,NULL
+1644,Agama Islam I,NULL
+1645,Prakelektronika,NULL
+1646,Mikrokontroler Antarmuka,NULL
+1647,Eksp.Elektronika Digital,NULL
+1648,Sensor Dan Transduser,NULL
+1649,Tugas Akhir Elektronika Instrumentasi,NULL
+1650,Praktinstrumentasi Medis,NULL
+1651,Pengantar Instrumentasi,NULL
+1652,Keselamatan Kerja,NULL
+1653,Keselamatan Kerja Dan Etika Profesi,8
+1654,Praktikum Pengantar Instrumentasi,NULL
+1655,Kerja Lab Alat Ukur Elektronik,NULL
+1656,Instrumentasi Medis,NULL
+1657,Praktikum Algoritma Dan Pemrograman,1
+1658,Simulasi Elektronika,2
+1659,Pemrograman Jaringan,1
+1660,Bahasa Inggeris,NULL
+1661,Layanan Elektronis,5
+1662,Teknik Antarmuka Dan Periferal,NULL
+1663,Perencanaan Rekayasa,NULL
+1664,Audit Dan Keamanan Sistem Informasi,4
+1665,Keamanan Sistem Dan Jaringan Komputer,3
+1666,Data Warehousing Dan Data Mining,4
+1667,Topik Penunjang Edp,NULL
+1668,Data Mining Dan Warehousing,4
+1669,Steganografi,NULL
+1670,Knowledge Discovery,NULL
+1671,Advanced Decision Support Systems,NULL
+1672,Instrumentasi Internet,NULL
+1673,Query Processing,NULL
+1674,Collaborative Filtering,NULL
+1675,Data Warehousing,4
+1676,Metode Verifikasi,NULL
+1677,Data Mining Statistik,4
+1678,Intelligent Database,NULL
+1679,Advance Database,NULL
+1680,Spatial Data Mining,4
+1681,Data Mining Dan Business Intelligence,4
+1682,Text Mining,NULL
+1683,Analisa Statistik,NULL
+1684,Kriptoanalisis,NULL
+1685,Advanced Sofware Engineering,NULL
+1686,Distributed Application Design And Devel,NULL
+1687,Penambangan Data (Data Mining,4
+1688,Sistem Pendukung Keputusan Lanjut,3
+1689,Kapita Selekta (E-Government,NULL
+1690,Kriptologi,NULL
+1691,Data Mining Dan Business Inteligence,4
+1692,Praktek Sistem Basis Data,4
+1693,Praktikum Sistem Basis Data,4
+1694,Computer Aided Drawing (Cad),NULL
+1695,Aplikasi Komputer Lanjut,NULL
+1696,Peer Teaching,NULL
+1697,Pengantar Topologi,NULL
+1698,Algoritma Struktur Data I,1
+1699,Jaringankomputer,NULL
+1700,Manajemen Jaringan,4
+1701,Inter/Intranet,NULL
+1702,Bahasa Inggris I,NULL
+1703,K.S.Sistem Komputer Dan Jaringan,3
+1704,Pemrog.Jaringan Piranti Bergerak,NULL
+1705,Praktjaringan Komputer,NULL
+1706,Pendidikan Agama Hindu,NULL
+1707,Prakalgoritma Dan Struktur Data I,4
+1708,Pengem.Peranglunak Berorientasi Obyek,NULL
+1709,Praktikum Pemrograman Berorientasi Objek,1
+1710,Praktikum Basis Data 2,4
+1711,Desain Elementer,5
+1712,Pemrograman Jardan Pirbergerak,1
+1713,Pemrog Jaringan Dan Piranti Bergerak,3
+1714,Fisika Elektro,NULL
+1715,Teknik Komputer Dasar,NULL
+1716,Teknik Komputasi,NULL
+1717,Praktbasis Data,4
+1718,Analisis Algoritma Dan Struktur Data,1
+1719,Metode Penelitian Dan Teknik Presentasi,NULL
+1720,Data Warehouse Dan Data Mining,4
+1721,Matematika Elektro,2
+1722,Dss Dan Sistem Kecerdasan Buatan,3
+1723,Sistem Kecerdasan Buatan,3
+1724,Logika Dan Algoritma,2
+1725,Pemrograman Pascal,1
+1726,Pengantar Analisis Algoritma,1
+1727,Sistem Pengolahan Basis Data,4
+1728,Pemrograman Basis Data,4
+1729,Ks.Algoritma Genetika,NULL
+1730,Magang,NULL
+1731,Teori Bahasa & Otomata,NULL
+1732,Proyek Ii (Pembuatan Perangkat Lunak),5
+1733,Proyek Khusus,5
+1734,Prak.Algoritma Struktur Data I,4
+1735,Tugas Khusus,NULL
+1736,Statistika Dan Penyajian Data,2
+1737,Praktikum Aplikasi Enterprise,9
+1738,Kl Perancangan Antarmuka Pengguna,NULL
+1739,Bahasa Inggris Ii,NULL
+1740,Praktikum Sistem Operasi,3
+1741,Aplikasi Enterprise,9
+1742,Praktikum Basis Data I,4
+1743,Kl Pemrograman Web Lanjut,1
+1744,Kl Desain Dan Perancangan Game,5
+1745,Sains Manajemen Sistem Elektronik,4
+1746,Fisika Reaktor,NULL
+1747,Sistem Pemrograman Mikroprosesor,3
+1748,Rekayasa Web,1
+1749,Teknologi E-Bisnis,NULL
+1750,Komputer Dan Pemrosesan Paralel,3
+1751,Pengelolaan Sistem Linux,3
+1752,Mikrookomputer,NULL
+1753,Instrumentasi Fisika,NULL
+1754,Sistem Akuisisi Data,4
+1755,Intelengensi Buatan,NULL
+1756,Azas Perancangan Sistem Elektronis,3
+1757,Disertasi 1,NULL
+1758,K.S.Teknologi Seluler,NULL
+1759,Teknik Pengolahan Isyarat Digital,NULL
+1760,Kapita Selekta Tekseluler,NULL
+1761,Sistem Jaringan,3
+1762,Sistem Digital Ii,3
+1763,Instrumentasi Optis,NULL
+1764,Disertasi 3,NULL
+1765,Tugas Labiii,NULL
+1766,Skripsi A,NULL
+1767,Interfacing Device,NULL
+1768,Systems And Information Technology,NULL
+1769,Sistem Informasi Manajemen Berbasis Ti,4
+1770,Embedded System 1,NULL
+1771,Keamanan Sistem Jaringan,4
+1772,Foundation Of The Web Technology,1
+1773,Open Source Software Development Environ,NULL
+1774,Mobile Learning,NULL
+1775,Teknik Klasifikasi Dan Pengenalan Pola,NULL
+1776,Sistem Kontrol,3
+1777,Arsitektur E-Government,3
+1778,Embeded System,NULL
+1779,Computer Security,4
+1780,E-System Security,4
+1781,Cyber Forensic,NULL
+1782,Praktikum Fisika Dasar I,NULL
+1783,It Compliance And Audit,NULL
+1784,Teknologi Informasi&Komunikasi Untuk Pen,NULL
+1785,Ekspelektronika Lanjut Ii,NULL
+1786,Elektronika Lanjut Ii,NULL
+1787,Eksp.Elektronika Lanjut 1,NULL
+1788,Org.Arsitektur Komp,NULL
+1789,Security Dan Privacy,4
+1790,Rekayasa E-Bisnis,NULL
+1791,Information Tech.Audit Control,NULL
+1792,Pemrograman Berorientasi Oby,1
+1793,Praktpemrog Berorientasi Oby,NULL
+1794,Prakt. Teknik Komputasi Dasar,NULL
+1795,Praktteknik Komputasi Dasar,NULL
+1796,Praktalgor Dan Struktur Data,4
+1797,Praktsistem Operasi,NULL
+1798,Praktteknik Komputasi,NULL
+1799,Praktpemrograman Berorientasi Obyek,NULL
+1800,Statistik Terapan Sosial,8
+1801,Enterprice System,NULL
+1802,Enterprise Systems,9
+1803,Penduduk Dan Konflik,NULL
+1804,Model Checking,NULL
+1805,Checking Model,NULL
+1806,Komputer Transformasi,NULL
+1807,Komputasi Paralel,3
+1808,Kssistem Terdistribusi,3
+1809,Pemrogwaktu Nyata,NULL
+1810,Pemodelan Inflasi,2
+1811,Algorithm Programming,NULL
+1812,Advautomata Theory,NULL
+1813,Metode Formal Unt Kriptografi,2
+1814,Verifikasi Dan Validasi,NULL
+1815,Pemrogfungsional,NULL
+1816,Kuliah Kerja Nyata (Kkn),NULL
+1817,Paralel Processing,3
+1818,Keamanan Sistem Dan Jaringan,4
+1819,Kecerdasan Komputasional (Fuzzyneuro F,NULL
+1820,Kl.Internet/Intranet,NULL
+1821,Metodologi Penelitian Ilmu Komputer,5
+1822,Praktek Lapangan Ii,NULL
+1823,Content Management System,5
+1824,Analisis Dan Perancangan Protokol,2
+1825,Praktek Lapangan I,NULL
+1826,Praktek Lapangan Iii,NULL
+1827,Kerja Labvisual Basic,NULL
+1828,Analisis Perancangan Protokol,2
+1829,Analisis Dan Desain Protokol,2
+1830,Proyek Sistem Informasi,4
+1831,Sistem Informasi Terdistribusi,4
+1832,Matematika Ii,2
+1833,Studium Generale,NULL
+1834,Sistem Dan Keamanan Informasi,3
+1835,Organisasi Dan Manajemen,4
+1836,Administrasi Keuangan Negara & Daerah,NULL
+1837,Sistem Ekonomi Indonesia,3
+1838,Komunikasi Organisasi Dan Kehumasan,NULL
+1839,Patalogi Birokrasi,NULL
+1840,Penyajian Data Statistika,4
+1841,Kerja Labpengolahan Data Stati,4
+1842,Kerja Labpengolahan Data Statii,4
+1843,Biostatistika,NULL
+1844,Statistika Ii,2
+1845,Praktikum Analisa Data,4
+1846,Statistik,NULL
+1847,Prakt. Analisis Data,2
+1848,Metode Peramalan,NULL
+1849,Praktikum Metode Statistik I,NULL
+1850,Praktmetode Peramalan,NULL
+1851,Aljabar Linear Terapan,NULL
+1852,Analisa Perancangan Berorientasi Obyek,NULL
+1853,Animasi Komputer,NULL
+1854,Sistem Basis Data I,4
+1855,Analisa & Desain Berorientasi Obyek,5
+1856,Simulasi Dan Pemodelan,2
+1857,Analisa Proses Bisnis,NULL
+1858,Analisa Dan Perancangan Berorientasi Oby,NULL
+1859,Matematika Dan Statistik Terapan,2
+1860,Sistem Informasi Manufaktur,4
+1861,Teknik Simulasi,2
+1862,Statistika Utk Komputasi 2,2
+1863,Statistik Utk Komputasi 1,NULL
+1864,Audit Sistem Informasi,4
+1865,Riset Operasional,NULL
+1866,Pemodelan & Simulasi Bisnis,2
+1867,Statistika Komputasional,2
+1868,Analisis Data Multivariat,2
+1869,Simulasi Sistem Diskrit,2
+1870,Topik Dalam Simulasi Diskrit,2
+1871,Probabilitas Dan Statistik,2
+1872,Topik Dalam Pemodelan Dan Simulasi,2
+1873,Manajemen Sains,4
+1874,Algoritma Dan Pemrograman 2,1
+1875,Arsitektur Si/Ti Perusahaan,3
+1876,Sistem Dan Teknologi Informasi,4
+1877,Manajemen Rantai Pasok,4
+1878,Pemantauan Dan Evaluasi Ti,NULL
+1879,Pengantar Teknologi Informasi Dan Komuni,4
+1880,Pengantar Teknologi Informasi Dan Komunikasi,4
+1881,Etika Profesi Si,8
+1882,Analisis Dan Desain Perangkat Lunak,5
+1883,Dasar-Dasar Pengembangan Perangkat Lunak,5
+1884,Algoritma Dan Pemrograman Komputer,1
+1885,Pengantar Sistem Operasi,3
+1886,Simulasi Sistem,2
+1887,Manajemen Dan Organisasi,4
+1888,Sistem Pengaman Komputer,3
+1889,Manajemen Resiko Ti,4
+1890,Audit Si,NULL
+1891,K 3 L,NULL
+1892,Integrasi Bisnis Dan Ti,NULL
+1893,Manajemen Pengadaan Dan Investasi Ti,4
+1894,Topik Dalam Pengukuran Kinerja Teknologi Informasi,4
+1895,Metodologi Penelitian Sistem Informasi,4
+1896,Teknik Analisis Sebab Akibat Dan Pemodelan Persamaan Struktural,2
+1897,Pengukuran Kinerja Dan Evaluasi Ti,NULL
+1898,Perencanaan Keberlangsungan Bisnis,NULL
+1899,Arsitektur Perangkat Lunak,3
+1900,Pemrograman Berbasis Web,1
+1901,Analis.Citra & Comp.Vision,NULL
+1902,Perancangan Dan Analisis Algoritma,1
+1903,Aljabar Linear,NULL
+1904,Perancangan Dan Analisis Algoritma Lanjut,1
+1905,Teori Graf Dan Otomata,2
+1906,Algoritma Dan Pemrogaman Komputer,1
+1907,Topik Dalam Pengolahan Citra Digital,6
+1908,Topik Khusus Igs,NULL
+1909,Computer Programming,NULL
+1910,Bahasa Indonesia (Penulisan Ilmiah),NULL
+1911,Konsep Sistem Informasi,4
+1912,Teknik Komplilator,NULL
+1913,Topik Dalam Information Retrieval & Data,4
+1914,Implikasi Dari Digitalisasi,NULL
+1915,Sistem Pendukung Keputusan Dan Executive,3
+1916,Soft Computing,NULL
+1917,"Seminar 2 (Kcv,Ncc,Rpl)",NULL
+1918,Sistem Pendukung Keputusan Dan Executive Informati,3
+1919,Seminar Riset 3,NULL
+1920,Riset 3,NULL
+1921,Topik Dalam Penggalian Data,4
+1922,Penggalian Data Dan Analitika Bisnis,4
+1923,Disertasi - Riset 3,NULL
+1924,Desain Dan Manajemen Proses Bisnis,5
+1925,Desain Basis Data,4
+1926,Pengendalian & Audit Sistem Informasi,4
+1927,Manajemen Proyek Sistem Informasi,4
+1928,Data Warehouse Dan Olap,4
+1929,Sistem Inteligensia,3
+1930,"Analisis, Pemodelan Dan Desain",2
+1931,Audit It,NULL
+1932,Manajemen Kebutuhan Perangkat Lunak,4
+1933,Desain Dan Manajemen Jaringan Komputer,3
+1934,Pengantar Teknik Informasi & Komunikasi,4
+1935,Perancangan Dan Manajemen Jaringan,4
+1936,Teknologi Antar Jaringan,3
+1937,Topik Dalam Pengaman Jaringan,3
+1938,Topik Dalam Jaringan Multimedia,3
+1939,Pengantar Teknik Informasi Dan Komunikas,4
+1940,Peranc.Sis.Berorientasi Oby,NULL
+1941,Akuntansi Komputer,NULL
+1942,Etika Di Bidang Komputer,NULL
+1943,Pemrograman Lanjutanc,1
+1944,Algoritma Pemograman I,1
+1945,Analisa Disain Ber.Obyek,NULL
+1946,Sistem Informasi Akuntansi,4
+1947,Desain Dan Pengelolaan Jarkom,5
+1948,Manajemen Jaringan Komputer,3
+1949,Pemrograman Internet Berbasis Java,1
+1950,Rekayasa Kebutuhan Perangkat Lunak,5
+1951,Proteksi Aset Informasi,4
+1952,Sekuritas Jaringan,3
+1953,Perancangan Keamanan Sistem Dan Jaringan,4
+1954,Keamanan Informasi Dan Jaringan,3
+1955,Infrastruktur Teknologi Informasi,4
+1956,Jaringan Dan Telekomunikasi Bisnis,3
+1957,Keamanan Aset Informasi,4
+1958,Forensika Digital,NULL
+1959,Topik Dalam Teknik Optimasi,2
+1960,Kecerdasan Komputational,NULL
+1961,Desain Dan Analisa Sistem,5
+1962,Desain Dan Analisa Berorientasi Obyek,5
+1963,Desain Analisa Berorientasi Obyek,5
+1964,Sist.Temu Kembali Informasi,4
+1965,Sosio Teknologi Informasi,4
+1966,Pemrograman Robot,1
+1967,"Seminar 1 (Kcv,Ncc,Rpl)",NULL
+1968,Disertasi - Sidang Promosi,NULL
+1969,Komputasi Biomedik,NULL
+1970,Analisis Media Sosial,2
+1971,Disertasi - Seminar Riset 3,NULL
+1972,Disertasi - Seminar Riset 1,NULL
+1973,Sejarah Sastra Indonesia,NULL
+1974,Ketrampilan Berbicara,NULL
+1975,Analisis Wacana Ii,2
+1976,Teori Sastra,NULL
+1977,Program Komputer,1
+1978,Desain Dan Analisa Algoritma,5
+1979,Topik Dalam Interaksi Manusia Dan Komputer,5
+1980,Realitas Virtual Dan Augmentasi,NULL
+1981,Topik Dalam Pengembangan Game,6
+1982,Prakt. Jaringan Komputer,3
+1983,Analisa & Desain Berorient.Obyek,5
+1984,Topik Dlm Rekayasa Kebutuhan,NULL
+1985,Analisa & Desain Terstruktur,5
+1986,Pemrog.Berorientasi Obyek,NULL
+1987,Topik Dalam Evolusi Perangkat Lunak,5
+1988,Rekayasa Kebutuhan Dan Desain Sistem,5
+1989,Topik Dalam Rekayasa Kebutuhan,NULL
+1990,Topik Dalam Rekayasa Pengetahuan,7
+1991,Evolusi Perangkat Lunak,5
+1992,Penulisan Disertasi,NULL
+1993,Rekayasa Kebutuhan,NULL
+1994,Pemrograman Api,1
+1995,Sosio Dan Etika,NULL
+1996,Pemrograman Perangkat Mobile,1
+1997,Pemrograman Perangkat Bergerak,1
+1998,Pemodelan Simulasi,2
+1999,Data Warehouse,4
+2000,Pengaman Sistem Komputer,3
+2001,E-Commerence,NULL
+2002,Sistem Infor.Manajemen,3
+2003,Riset Teknologi Informasi,4
+2004,Konsep E-Bisnis,NULL
+2005,Teknologi Minyak Atsiri Dan Kosmetika,NULL
+2006,Topik Dalam Simulasi Dan Pemodelan Sistem,2
+2007,Sistem Terdistribusi Berbasis Java,3
+2008,Teknologi Open Source,NULL
+2009,Pengembangan Proyek Komersial,5
+2010,Rek.Perangkat Lunak Lanjut,NULL
+2011,Topik Dlm Manaj.Proyek Pl,NULL
+2012,Seminar Proposal Tesis,NULL
+2013,Verifikasi Dan Validasi Perangkat Lunak,5
+2014,Ilmu Sosial Dan Budaya Dasar,8
+2015,Pemrograman Berbasis Kerangka Kerja,1
+2016,Manajemen Nilai,4
+2017,Pengelolaan Hubungan Pelanggan,NULL
+2018,Teknologi Dan Masalah-Masalah Baru,NULL
+2019,Tren Teknologi & Open Source,NULL
+2020,Teknologi Bergerak,NULL
+2021,Topik Dalam Pengembangan Arsitektur Berbasis Layanan,3
+2022,Konstruksi Dan Pengujian Perangkat Lunak,5
+2023,Topik Dalam Pengembangan Sistem Tertanam,3
+2024,Prakt. Struktur Data,4
+2025,Komputasi Grid,NULL
+2026,Statistik 1,NULL
+2027,Komputasi Grid Dan Paralel,3
+2028,Topik Dalam Komputasi Paralel Dan Kinerja Tinggi,3
+2029,Perenc. Strategis Sumber Daya Perusahaan,9
+2030,Topik Dalam Sistem Intelegensia,3
+2031,Topik Dlm Perenc.Stratg Sumber Daya Pers,NULL
+2032,Pengantar Inteligensia Buatan,NULL
+2033,Algoritma Pemrograman,1
+2034,Metodologi Riset Dan Filsasat Ilmu,5
+2035,Seminar Riset 2,NULL
+2036,Riset 2,NULL
+2037,Disertasi - Riset 2,NULL
+2038,Metodologi Riset Dan Filsafat Ilmu,5
+2039,Integrasi Aplikasi Korporasi,NULL
+2040,Manajemen Dan Administrasi Basis Data,4
+2041,Pemrograman Integratif,1
+2042,Jaringan Multimedia,3
+2043,Teknik Kompresi,NULL
+2044,Komputasi Berbasis Jaringan,3
+2045,Topik Dalam Forensik Digital,NULL
+2046,Kompresi Data,4
+2047,Topik Dalam Sistem Terdistribusi,3
+2048,Realitas Virtual,NULL
+2049,Pembuatan Game,6
+2050,Sistem Game,3
+2051,Teknik Pengembangan Game,6
+2052,Teknik Pemodelan Dan Simulasi,2
+2053,Etika Profesional,8
+2054,Riset Operasional Dan Analisa Sistem,3
+2055,Topik Dalam E-Business,NULL
+2056,Manajemen Informasi & Sist. Informasi Ge,4
+2057,Simulasi Dan Game Komputer,2
+2058,Topik Dalam Pemrosesan Citra Dan Visi Ko,6
+2059,Model-Model Perusahaan,9
+2060,Topik Dalam Sistem Distribusi,3
+2061,Mekanika Teknik,NULL
+2062,Riset 1,NULL
+2063,Seminar Riset 1,NULL
+2064,Elektrodinamika,NULL
+2065,Analisis Proses Bisnis,2
+2066,Analisis Dan Sistem Keputusan,2
+2067,Perencanaan Sumber Daya Perusahaan,9
+2068,Manajemen Rantai Pasok Dan Hubungan Pelanggan,4
+2069,Tata Tulis Ilmiah,NULL
+2070,Jaringan Komputer I,3
+2071,Pengamanan Jaringan,3
+2072,Topik Dlm Mobile Computing (Komputasi Be,NULL
+2073,Jar.Nirkabel & Komputasi Bergerak,NULL
+2074,Prakt. Sistem Operasi,3
+2075,Topik Dalam Pengamanan Jaringan,3
+2076,Topik Khusus Komputasi Berbasis Jaringan,3
+2077,Topik Dalam Desain Dan Manajemen Jaringa,5
+2078,Topik Dalam Sistem Operasi,3
+2079,Topik Khusus Arsitektur Dan Jaringan Komputer,3
+2080,Topik Dalam Komputasi Awan,3
+2081,Analisis Perancangan Kerja,2
+2082,Perencanaan Tata Letak Pabrik,NULL
+2083,Analisa Kelayakan Pabrik,NULL
+2084,Industri Kimia,NULL
+2085,Penelitian Operasional I,NULL
+2086,Manajemen Kwalitas,4
+2087,Manajemen Logistik,4
+2088,Praktikum Analisa Perancangan,NULL
+2089,Ergonomi Industrik,NULL
+2090,Pengendalian Kwalitas Statistik,NULL
+2091,Sistem Produktifitas,3
+2092,Pengetahuan Bahan,7
+2093,Elemen Mesin,7
+2094,Manajemen Kualitas Proyek,4
+2095,Pengetahuan Bisnis,7
+2096,Pencegahan Penang. Kebakaran & Bencana,NULL
+2097,Ergonomi Perancangan Kerja,NULL
+2098,Ergonomi & Perancangan Kerja,NULL
+2099,Audit Perangkat Lunak,5
+2100,Forensik Digital,NULL
+2101,Animasi Komputer Dan Pemodelan 3D,2
+2102,Teori Graf,2
+2103,Algoritma Dan Pemrograman Ii,1
+2104,Hukum Administrasi Negara,NULL
+2105,Hukum Bisnis,NULL
+2106,Hukum Dan Kebijakan Publik,NULL
+2107,Topik Dalam Rekayasa Sistem Berbasis Pengetahuan,3
+2108,Rekayasa Pengetahuan,7
+2109,Sistem Informasi Perencanaan,4
+2110,Topik Dalam Desain Algoritma,1
+2111,Topik Dalam Bahasa Pemrograman,1
+2112,Topik Dalam Penyempurnaan Proses Perangkat Lunak,5
+2113,Penyempurnaan Proses Perangkat Lunak,5
+2114,Sistem Enterprise,3
+2115,Pengantar Ilmu Lingkungan,NULL
+2116,Pra Tugas Akhir,NULL
+2117,Topik Dalam Desain Dan Audit Jaringan,5
+2118,Konstruksi Perangkat Lunak,5
+2119,Topik Dalam Portal Korporat,NULL
+2120,Manaj.Proyek Perangkat Lunak,5
+2121,Topik Dalam Tatakelola Dan Audit Ti,NULL
+2122,Pola Dan Arsitektur Perangkat Lunak,3
+2123,Topik Dalam Manajemen Proyek Perangkat Lunak,5
+2124,Audit Sistem,3
+2125,Topik Khusus Manajemen Informasi,4
+2126,Topik Dalam Sistem Informasi Tanggap Proses Bisnis,4
+2127,Komputasi Client Server,NULL
+2128,Komputasi Awan,3
+2129,Otomasi Perkantoran,NULL
+2130,Sistem Basis Data Ii,4
+2131,Sistem Operasi Ii,3
+2132,Data Warehouse & Olap*,4
+2133,Data Mining*,4
+2134,Manajemen Sains Lanjut,4
+2135,Topik Dlm Manaj.Kualitas Pl,NULL
+2136,Testing Dan Inplementasi Sistem,3
+2137,Topik Dalam Manajemen Kualitas Perangkat,4
+2138,Topik Dalam Penjaminan Kualitas Perangkat Lunak,5
+2139,Pola-Pola Perancangan,NULL
+2140,Prakt.Pemrograman Terstruktur,NULL
+2141,Organisasi Arsitektur Komputer,3
+2142,Topik Khusus Jaringan Komputer,3
+2143,Topik Dalam Jaringan Nirkabel Dan Komput,3
+2144,Komunikasi Data,4
+2145,Topik Dalam Jaringan Nirkabel,3
+2146,Disertasi - Seminar Riset 2,NULL
+2147,Pneumatik/Hidrolik I,NULL
+2148,Seminar Skripsi,NULL
+2149,Praksistem Operasi Jaringan,3
+2150,Prakteknik Digital,NULL
+2151,Prakimple.Basis Data,4
+2152,Pneumatik Dan Hidrolik Ii,NULL
+2153,Metdpenulisan Ilmiah Tek.Presentasi,NULL
+2154,Kimia Terapan I,NULL
+2155,Prakimplementasi Struktur Data,4
+2156,Prakgrafika Komputer,NULL
+2157,Elemen Mesin I,7
+2158,Mekanika Fluida,NULL
+2159,Pengantar Komputer,NULL
+2160,Interpersonal Skill,NULL
+2161,Prakpemrograman C+Dasar,NULL
+2162,Teknologi Dan Pemrogmobile,NULL
+2163,Topik Dalam Adopsi Teknologi Informasi,4
+2164,Kepemimpinan Dan Ketrampilan Interpersonal,NULL
+2165,Otomata & Pengantar Kompilasi,NULL
+2166,Inteligensia Mesin,7
+2167,Sistem Operasi I,3
+2168,Desain & Manajemen Jaringan,3
+2169,Jaringan Nirkabel Dan Komputasi Bergerak,3
+2170,Komputasi Pervasif Dan Jaringan Sensor,3
+2171,Jaringan Nirkabel,3
+2172,Topik Dalam Komputasi Bergerak,NULL
+2173,Statistika Dasar,2
+2174,Matematika 2,2
+2175,Tek. Penulisan Buku Sumber,NULL
+2176,Kebijakan Pembangunan Teknologi Informas,NULL
+2177,Prakt. Sistem Digital,3
+2178,Agama Budha,NULL
+2179,Logika Samar (Fuzzy),2
+2180,Koding Teori Informasi,4
+2181,Kapita Selekta Logika Fuzzi,2
+2182,Sistem Basis Data Tersebar,4
+2183,Sistem Informasi Manajemen**,4
+2184,Keamanan Data Dan Informasi,4
+2185,Testing Dan Implementasi Si,NULL
+2186,Sistem Intelijen Berbasis Agen,3
+2187,Perilaku Manusia Dalam It,NULL
+2188,Sist.Basisdata Aplikasi Basisdata Web,1
+2189,Fraktal,NULL
+2190,Tugas Khusus I,NULL
+2191,Metode Penelitian Lanjut,NULL
+2192,Fuzzy Lanjut,NULL
+2193,Fuzzy Logic,NULL
+2194,Distributed Database,NULL
+2195,Konsep Data Spasial,4
+2196,Disertasi 4,NULL
+2197,Konsep Bahasa Dan Kompiler,NULL
+2198,Pemroaman Lnajut 4,NULL
+2199,Motor Bensin,NULL
+2200,Termodinamika,NULL
+2201,Praktikum Mesin Bensin,7
+2202,Termodinamika Teknik,NULL
+2203,Intelligence Agent System,NULL
+2204,Kecerdasan Buatan Dan Model Pemikiran,7
+2205,Educational Measurement,NULL
+2206,Ketidakpastian Dalam Sistem Pakar,3
+2207,Teori Compiler,NULL
+2208,Teori Ketidakpastian,NULL
+2209,Dss Lanjut,NULL
+2210,Komputasi Simbolik,NULL
+2211,Information Theory,NULL
+2212,Pemrograman,1
+2213,Kecerdasan Kelompok,NULL
+2214,Intelligence Tutoring System,NULL
+2215,Labstatistik,NULL
+2216,Logika Samar,2
+2217,Ketidakpastian,NULL
+2218,Proyek Mahasiswa,5
+2219,Advance E-Commerce,NULL
+2220,Game Develpoment,6
+2221,Aplikasi Berbasis Web,1
+2222,Advanced Interoperability,NULL
+2223,Game Theory For Wireless Network,6
+2224,Kapita Selekta E Learning,NULL
+2225,Prakt. Pemrograman Berorientasi Obyek,1
+2226,Pengembangan Aplikasi Permainan,1
